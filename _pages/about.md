@@ -2,7 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: Laboratory for computational biophysics, protein design, and drug discovery.
+subtitle: Laboratory for Computational Science
+nav: false
+nav_order: 7
 
 profile:
   align: right
