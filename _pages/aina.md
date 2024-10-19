@@ -1,7 +1,7 @@
 ---
-layout: about
-title: About
-permalink: /
+layout: aina
+title: PI
+permalink: /aina/
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
