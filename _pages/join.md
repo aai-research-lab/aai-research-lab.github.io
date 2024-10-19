@@ -1,7 +1,7 @@
 ---
 layout: join
 title: Join
-permalink: /
+permalink: /join/
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
