@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: join
+title: Join
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 

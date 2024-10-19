@@ -248,6 +248,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/about
   - _pages/blog
   - _pages/projects
   - _pages/repositories
