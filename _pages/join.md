@@ -1,5 +1,5 @@
 ---
-layout: join
+layout: page
 title: Join
 permalink: /join/
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
