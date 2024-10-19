@@ -3,6 +3,8 @@ layout: page
 title: Join
 permalink: /join/
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+nav: true
+nav_order: 7
 
 profile:
   align: right
