@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A.A. Research Lab starts at California State University Dominguez Hills. Dr. Aina officially starts as Assistant Professor in the Department of Physics and the Lead Scientist at A.A. Research Lab.
+A.A. Research Lab opens at California State University Dominguez Hills with Dr. Aina as the Lead Scientist. Dr. Aina officially starts as Assistant Professor in the Department of Physics.
