@@ -1,33 +1,31 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Physics chair Dr. John Price welcomes Dr. Aina to CSUDH
+date: 2024-08-15 00:00:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+**Welcome to Dr. Aina, new Physics faculty member!**
+
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+Hi all:
 
-#### Hipster list
+Please join me in welcoming Dr. Adekunle Aina to the CSUDH Physics Department! Dr. Aina comes to us from Okanagan College in Kelowna, Canada, where he served as an instructor in Mathematics and Statistics. He is joining Dr. Crogman in our newly-formed Biophysics major, which I am sure will soon take the University by storm.
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+Dr. Aina received his Associate of Science degree in Mathematics, Physics, and Chemistry from Ahmadu Bello University in Zaria, Nigeria, and his Bachelor of Science degree in Applied/Engineering Physics from the University of Lagos in Lagos, Nigeria. He then moved to Canada, receiving his Master of Science degree in Physics from the University of Newfoundland in Newfoundland, Canada, and his Ph.D. In Physics and Biophysics from the University of British Columbia in Vancouver, Canada. He received his Ph.D. in 2023.
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+Side note: UBC is also the home of TRIUMF, a particle accelerator where I performed my first published physics experiment as an undergraduate way back in 1985.  Yes, I'm old. Back to Dr. Aina...
 
----
+Dr. Aina did his doctoral dissertation on "Computational Modeling and Design of Oligomer Selective Immunogens for Parkinson's and Alzheimer's Disease". It's available online, but I'll let you search for it yourself – it's not that hard to find.
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+Dr. Aina has performed research in Computational Physics and Biophysics, Bioinformatics, and Data Science. He brings with him a wealth of knowledge and experience in the field, and I am confident that he will be a tremendous addition to the Physics Department.
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+As we begin the new semester, please take a moment to stop by his office and say hi, and welcome into our community.
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+>**Dr. John Price**
+>Professor and Chair, Department of Physics
+>California State University Dominguez Hills
+
