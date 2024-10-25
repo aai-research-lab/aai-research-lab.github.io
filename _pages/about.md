@@ -12,26 +12,30 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>NSM C121 & C315, Natural Science and Mathematic Building</p>
-    <p>1000 E Victoria Street, Carson, CA 90747</p>
+    <p>NSM C121 & C315</p>
+    <p>Natural Science and Mathematics</p>
+    <p>1000 E Victoria Street</p> 
+    <p>Carson, CA 90747</p>
   
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 **Adekunle Aina** | Lead Scientist
+
 
 Welcome to **A.A. Research Lab**oratory for Computational Science. We are advancing research at the intersection of physics, chemistry, and biology, harnessing the power of artificial intelligence (AI), mathematical, and computational tools to address some of the most challenging questions in biomedicine and biotechnology. Join us in this exciting frontier of computational science and be a part of revolutionizing the future of healthcare!
 
 
 ### Research
 
-- **Biophysics:** We study the physical laws that govern biomolecular interactions, using computer simulations to understand the dynamic behavior of proteins and other biomolecules.
+**Biophysics --** We study the physical laws that govern biomolecular interactions, using computer simulations to understand the dynamic behavior of proteins and other biomolecules.
 
-- **Protein Design:** We work on engineering and designing proteins, immunogens, and antibodies with enhanced or entirely new functions.
+**Protein Design --** We work on engineering and designing proteins, immunogens, and antibodies with enhanced or entirely new functions.
 
-- **Drug Discovery:** We apply cutting-edge computational strategies to accelerate drug discovery, identifying promising drug candidates and optimizing their efficacy and safety.
+**Drug Discovery --** We apply cutting-edge computational strategies to accelerate drug discovery, identifying promising drug candidates and optimizing their efficacy and safety.
+
 
 #### Our Vision
 
