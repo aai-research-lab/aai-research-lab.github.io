@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: Laboratory for Computational Science
+subtitle: Laboratory for Computational Science  
+Adekunle Aina | Lead Scientist
 nav: false
 nav_order: 1
 
@@ -10,15 +11,15 @@ nav_order: 1
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>NSM C121 & C315, Natural Science and Mathematic Building</p>
+    <p>1000 E Victoria Street, Carson, CA 90747</p>
+  
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 Welcome to the A.A. Research Lab: a hub for computational science, where we focus on advancing research in **biophysics, protein design, and drug discovery**. Our goal is to push the boundaries of science using computational tools to tackle some of the most challenging questions in biology and medicine.
 
