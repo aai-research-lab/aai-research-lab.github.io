@@ -31,14 +31,13 @@ Welcome to A.A. Research Laboratory for Computational Science. We are advancing 
 
 ### Research
 
-**Biophysics --** We study the physical laws that govern biomolecular interactions and develop/use computational and machine learning methods to understand the dynamic behavior of proteins.
+**Biophysics --** We study the principles of physics that govern biomolecular interactions and use/develop computational and AI methods to understand the dynamics of proteins.
 
 **Protein Design --** We utilize biophysical understanding to design and engineer novel proteins with entirely new structural and functional properties.
 
 **Drug Discovery --** We apply protein design to immunogen and antibody design to tackle practical problems in drug discovery for neurodegenerative diseases.
 
 
-We believe in the transformative power of computational science to revolutionize the way we understand biology and develop new therapies. Our research doesn’t just stay in the lab—it has the potential to create real-world solutions that can change lives.
+We believe in the transformative power of computational science to revolutionize the way we understand biological systems such as proteins. Our research doesn’t just stay in the lab—it has the potential to create real-world solutions like the development of new therapeutic proteins that can change lives.
 
-
-For more information, check out our [publications](https://ainaadekunle.github.io/publications), and stay updated on latest [news](https://ainaadekunle.github.io/news). You can connect with us on [LinkedIn](https://www.linkedin.com/company/aa-research-lab) to engage with our research and network with our [team](https://ainaadekunle.github.io/team). Contact [Dr. Aina](https://www.linkedin.com/in/ainaadekunle) if you are interested in joining our research efforts or collaborating with us. We are always eager to connect with bright minds, whether you're a student, a researcher, or an industry professional.
+For more information, check out our [publications](https://ainaadekunle.github.io/publications) and stay updated on latest [news](https://ainaadekunle.github.io/news). You can connect with us on [LinkedIn](https://www.linkedin.com/company/aa-research-lab) to engage with our research and network with our [team](https://ainaadekunle.github.io/team). Contact [Dr. Aina](https://www.linkedin.com/in/ainaadekunle) if you are interested in [joining](https://ainaadekunle.github.io/join) our research efforts or collaborating with us. We are always eager to connect with bright minds, whether you're a student, a researcher, or an industry professional.
