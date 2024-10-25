@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Laboratory for Computational Science  
-Adekunle Aina | Lead Scientist
+subtitle: Laboratory for Computational Science
 nav: false
 nav_order: 1
 
@@ -21,6 +20,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+**Adekunle Aina** | Lead Scientist
 
 Welcome to **A.A. Research Lab**oratory for Computational Science. We are advancing research at the intersection of physics, chemistry, and biology, harnessing the power of artificial intelligence (AI), mathematical, and computational tools to address some of the most challenging questions in biomedicine and biotechnology. Join us in this exciting frontier of computational science and be a part of revolutionizing the future of healthcare!
 
