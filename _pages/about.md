@@ -12,8 +12,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>NSM Rooms C121 & C315</p>
-    <p>Natural Science & Mathematics, California State University Dominguez Hills</p>
+    <p>NSM Labs C121 & C315</p>
+    <p>Natural Science Building</p>
+    <p>California State University Dominguez Hills</p>
     <p>1000 E Victoria Street, Carson, CA 90747</p>
   
 
@@ -22,7 +23,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-##### **[Adekunle Aina](https://www.linkedin.com/in/ainaadekunle)**,Ph.D. | Lead Scientist
+###### **[Adekunle Aina](https://www.linkedin.com/in/ainaadekunle)**, Ph.D. | Lead Scientist
 
 
 Welcome to A.A. Research Laboratory for Computational Science. We are advancing research at the intersection of physics, chemistry, and biology, harnessing the power of mathematical, and computational tools to address some of the most challenging questions in biomedicine and biotechnology. Join us in this exciting frontier of computational science and be a part of revolutionizing the future of healthcare!
