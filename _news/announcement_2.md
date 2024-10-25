@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A.A. Research Lab opens at California State University Dominguez Hills with Dr. Aina as the Lead Scientist.
+A.A. Research Lab opens at California State University Dominguez Hills.

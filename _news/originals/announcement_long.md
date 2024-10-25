@@ -25,7 +25,7 @@ Dr. Aina has performed research in Computational Physics and Biophysics, Bioinfo
 
 As we begin the new semester, please take a moment to stop by his office and say hi, and welcome into our community.
 
->**Dr. John Price**
->Professor and Chair, Department of Physics
+>**Dr. John Price**  
+>Professor and Chair, Department of Physics  
 >California State University Dominguez Hills
 
