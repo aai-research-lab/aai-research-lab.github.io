@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Research
 permalink: /
 subtitle: Laboratory for Computational Science
 nav: false
@@ -26,16 +26,16 @@ social: false # includes social icons at the bottom of the page
 ###### **[Adekunle Aina](https://www.linkedin.com/in/ainaadekunle)**, Ph.D. | Lead Scientist
 
 
-Welcome to A.A. Research Laboratory for Computational Science. We are advancing research at the intersection of physics, chemistry, and biology, harnessing the power of mathematical, and computational tools to address some of the most challenging questions in biomedicine and biotechnology. Join us in this exciting frontier of computational science and be a part of revolutionizing the future of healthcare!
+Welcome to **A.A. Research Lab**oratory for Computational Science. We are advancing research at the intersection of physics, chemistry, and biology, harnessing the power of mathematical, and computational tools to address some of the most challenging questions in biomedicine and biotechnology. Join us in this exciting frontier of computational science and be a part of revolutionizing the future of healthcare!
 
 
 ### Research
 
-**Biophysics --** We study the principles of physics that govern biomolecular interactions and use/develop computational and AI methods to understand the dynamics of proteins.
+**Biophysics --** We study the principles of physics that govern biomolecular interactions and use/develop computational and machine learning methods to understand the dynamics of proteins.
 
-**Protein Design --** We utilize biophysical understanding to design and engineer novel proteins with entirely new structural and functional properties.
+**Protein Design --** We utilize AI and biophysical understanding to design and engineer novel proteins with entirely new structural and functional properties.
 
-**Drug Discovery --** We apply protein design to immunogen and antibody design to tackle practical problems in drug discovery for neurodegenerative diseases.
+**Drug Discovery --** We apply protein design techniques to immunogen and antibody design to tackle practical problems in drug discovery for neurodegenerative diseases.
 
 
 We believe in the transformative power of computational science to revolutionize the way we understand biological systems such as proteins. Our research doesn’t just stay in the lab—it has the potential to create real-world solutions like the development of new therapeutic proteins that can change lives.
