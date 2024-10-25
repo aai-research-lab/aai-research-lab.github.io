@@ -17,6 +17,7 @@ profiles:
       <p>Lead Scientist</p>
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
+
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
@@ -26,3 +27,6 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
 ---
+## Who We Are
+
+Our team is passionate about applying computational methods to unravel the complexities of biological systems. We bring together experts and students from diverse backgrounds, all united by a shared mission of driving innovation in science for the benefit of human health.

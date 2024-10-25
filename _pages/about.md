@@ -21,29 +21,27 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Welcome to the A.A. Research Lab: a hub for computational science, where we focus on advancing research in **biophysics, protein design, and drug discovery**. Our goal is to push the boundaries of science using computational tools to tackle some of the most challenging questions in biology and medicine.
 
-## Who We Are
+Welcome to **A.A. Research Lab**oratory for Computational Science. We are advancing research at the intersection of physics, chemistry, and biology, harnessing the power of artificial intelligence (AI), mathematical, and computational tools to address some of the most challenging questions in biomedicine and biotechnology. Join us in this exciting frontier of computational science and be a part of revolutionizing the future of healthcare!
 
-Our team is passionate about applying computational methods to unravel the complexities of biological systems. We bring together experts and students from diverse backgrounds, all united by a shared mission of driving innovation in science for the benefit of human health.
 
-## Our Research Focus
+### Research
 
-- **Biophysics:** We delve into the physical laws that govern molecular interactions, using simulations to understand the dynamic behavior of proteins and other biomolecules.
+- **Biophysics:** We study the physical laws that govern biomolecular interactions, using computer simulations to understand the dynamic behavior of proteins and other biomolecules.
 
-- **Protein Design:** Our lab works on engineering proteins with enhanced or entirely new functions, using advanced computational techniques to predict and optimize their behavior.
+- **Protein Design:** We work on engineering and designing proteins, immunogens, and antibodies with enhanced or entirely new functions.
 
 - **Drug Discovery:** We apply cutting-edge computational strategies to accelerate drug discovery, identifying promising drug candidates and optimizing their efficacy and safety.
 
-## Our Vision
+#### Our Vision
 
 We believe in the transformative power of computational science to revolutionize the way we understand biology and develop new therapies. Our research doesn’t just stay in the lab—it has the potential to create real-world solutions that can change lives.
 
-## Get Involved
+#### Get Involved
 
 Interested in joining our research efforts or collaborating with us? We are always eager to connect with bright minds, whether you're a student, a researcher, or an industry professional. Together, we can make a difference.
 
-## Stay Connected
+#### Stay Connected
 
 Follow our lab’s journey, explore our publications, and stay updated on our latest discoveries. You can connect with us on [LinkedIn](https://linkedin.com), [Google Scholar](https://scholar.google.com), and other platforms to engage with our research and network with the team.
 
