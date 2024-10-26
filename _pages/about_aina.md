@@ -1,9 +1,9 @@
-# Adekunle Aina, Ph.D.
+### Adekunle Aina, Ph.D.
 
-**Lead Scientist**  
-Assistant Professor of Biophysics, California State University Dominguez Hills
+##### Lead Scientist  
+Assistant Professor of Biophysics
 
-📧 aina (at) csudh.edu  
+📧 aina [at] csudh [dot] edu  
 💼 [LinkedIn](https://www.linkedin.com/in/ainaadekunle)  
 🌐 [Website](https://ainaadekunle.github.io/)  
 📄 [Curriculum Vitae](https://ainaadekunle.github.io)
