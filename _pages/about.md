@@ -9,7 +9,7 @@ nav_order: 1
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: AAResLab_building.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Labs C121 and C315</p>
