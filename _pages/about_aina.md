@@ -3,9 +3,7 @@
 ##### Lead Scientist  
 
 ✉️  aaina [at] csudh.edu  
-📞 {"(709) 701-6737"}  
-[in] [LinkedIn](https://www.linkedin.com/in/ainaadekunle)  
-🌐 [Website](https://ainaadekunle.github.io)  
+🌐 [LinkedIn](https://www.linkedin.com/in/ainaadekunle)  
 
 Dr. Aina is an Assistant Professor of Biophysics in the Department of Physics at California State University Dominguez Hills. 
 He holds a Ph.D. in Physics from the University of British Columbia. 
