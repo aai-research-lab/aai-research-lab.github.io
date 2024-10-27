@@ -3,7 +3,7 @@ layout: about
 title: Join
 permalink: /join/
 subtitle: Laboratory for Computational Science
-nav: false
+nav: true
 nav_order: 7
 
 
@@ -25,12 +25,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 ### Join Us!
-We are a multidisciplinary team harnessing advanced mathematical and computational tools to address challenging questions in biomedicine and biotechnology.
+We are a multidisciplinary team harnessing advanced mathematical and computational tools to address challenging questions in biophysics, protein design, and drug discovery.
 
 We seek curious, motivated students and researchers with a strong foundation in mathematics, physics, chemistry, biology or computer science.
 If you are interested in biological problems and eager to deepen your expertise across various fields, we want you on our team.
-Join us in a collaborative environment to advance research in biophysics, protein design, and drug discovery.
-
+Join us in a collaborative environment to advance research for applications in biomedicine and biotechnology.
 Our work goes beyond the lab, aiming to design innovative therapeutic proteins that can have profound impact on people's lives.
 
 Please contact [Dr. Aina](https://www.linkedin.com/in/ainaadekunle) if you are interested in [joining](https://ainaadekunle.github.io/join) our research efforts or collaborating with us. We are always eager to connect with bright minds, whether you're a student, a researcher, or an industry professional.

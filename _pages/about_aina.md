@@ -1,4 +1,4 @@
-### Adekunle Aina, Ph.D.
+#### Adekunle Aina, Ph.D.
 
 ##### Lead Scientist  
 
