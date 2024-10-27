@@ -14,17 +14,16 @@ profile:
   more_info: >
     <p>NSM Labs C121 and C315</p>
     <p>Natural Science Building</p>
-    <p>California State University Dominguez Hills</p>
-    <p>1000 E Victoria Street, Carson, CA 90747</p>
+    <p>California State University</p>
+    <p> Dominguez Hills</p>
+    <p>1000 E Victoria Street</p>
+    <p>Carson, CA 90747</p>
   
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-
-###### **[Adekunle Aina](https://www.linkedin.com/in/ainaadekunle)**, Ph.D. | Lead Scientist
-
 
 Welcome to **A.A. Research Lab**oratory for Computational Science. We are advancing research at the intersection of physics, chemistry, and biology, harnessing the power of mathematical, and computational tools to address some of the most challenging questions in biomedicine and biotechnology. Join us in this exciting frontier of computational science and be a part of revolutionizing the future of healthcare!
 
