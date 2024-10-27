@@ -32,6 +32,6 @@ If you are interested in biological problems and eager to deepen your expertise 
 Join us in a collaborative environment to advance research for applications in biomedicine and biotechnology.
 Our work goes beyond the lab, aiming to design innovative therapeutic proteins that can have profound impact on people's lives.
 
-Please contact [Dr. Aina](https://www.linkedin.com/in/ainaadekunle) if you are interested in [joining](https://ainaadekunle.github.io/join) our research efforts or collaborating with us. We are always eager to connect with bright minds, whether you're a student, a researcher, or an industry professional.
+Please contact [Dr. Aina](https://www.linkedin.com/in/ainaadekunle) if you are interested in joining our research efforts or collaborating with us. We are always eager to connect with bright minds, whether you're a student, a researcher, or an industry professional.
 
 
