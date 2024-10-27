@@ -39,4 +39,6 @@ Welcome to **A.A. Research Lab**oratory for Computational Science. We are advanc
 
 We believe in the transformative power of computational science to revolutionize the way we study biological systems such as proteins. Our research doesn’t just stay in the lab—it has the potential to create real-world solutions like the development of new therapeutic proteins that can change lives.
 
-For more information, check out our [publications](https://ainaadekunle.github.io/publications) and stay updated on latest [news](https://ainaadekunle.github.io/news). You can connect with us on [LinkedIn](https://www.linkedin.com/company/aa-research-lab) to engage with our research and network with our [team](https://ainaadekunle.github.io/team). Contact [Dr. Aina](https://www.linkedin.com/in/ainaadekunle) if you are interested in [joining](https://ainaadekunle.github.io/join) our research efforts or collaborating with us. We are always eager to connect with bright minds, whether you're a student, a researcher, or an industry professional.
+For more information, check out our [publications](https://ainaadekunle.github.io/publications) and stay updated on latest [news](https://ainaadekunle.github.io/news). 
+You can connect with us on [LinkedIn](https://www.linkedin.com/company/aa-research-lab) to engage with our research and network with our [team](https://ainaadekunle.github.io/team). 
+Contact [Dr. Aina](https://www.linkedin.com/in/ainaadekunle) if you would like to [join](https://ainaadekunle.github.io/join) the [team](https://ainaadekunle.github.io/team).

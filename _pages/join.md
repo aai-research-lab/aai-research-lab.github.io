@@ -2,26 +2,43 @@
 layout: page
 title: Join
 permalink: /join/
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Laboratory for Computational Science
 nav: true
 nav_order: 7
+
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>NSM Labs C121 and C315</p>
+    <p>Natural Science Building</p>
+    <p>California State University</p>
+    <p> Dominguez Hills</p>
+    <p>1000 E Victoria Street</p>
+    <p>Carson, CA 90747</p>
+  
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
+Contact [Dr. Aina](https://www.linkedin.com/in/ainaadekunle) if you are interested in [joining](https://ainaadekunle.github.io/join) our research efforts or collaborating with us. We are always eager to connect with bright minds, whether you're a student, a researcher, or an industry professional.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Welcome to **A.A. Research Lab**oratory for Computational Science. We are advancing research at the intersection of physics, chemistry, and biology, harnessing the power of mathematical, and computational tools to address some of the most challenging questions in biomedicine and biotechnology. Join us in this exciting frontier of computational science and be a part of revolutionizing the future of healthcare!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+### Research
+
+**Biophysics --** We study the principles of physics that govern biomolecular interactions and use/develop computational and machine learning methods to understand the dynamics of proteins.
+
+**Protein Design --** We utilize AI and biophysical understanding to design and engineer novel proteins with entirely new structural and functional properties.
+
+**Drug Discovery --** We apply protein design techniques to immunogen and antibody design to tackle practical problems in drug discovery for neurodegenerative diseases.
+
+
+We believe in the transformative power of computational science to revolutionize the way we study biological systems such as proteins. Our research doesn’t just stay in the lab—it has the potential to create real-world solutions like the development of new therapeutic proteins that can change lives.
+
+For more information, check out our [publications](https://ainaadekunle.github.io/publications) and stay updated on latest [news](https://ainaadekunle.github.io/news). You can connect with us on [LinkedIn](https://www.linkedin.com/company/aa-research-lab) to engage with our research and network with our [team](https://ainaadekunle.github.io/team). Contact [Dr. Aina](https://www.linkedin.com/in/ainaadekunle) if you are interested in [joining](https://ainaadekunle.github.io/join) our research efforts or collaborating with us. We are always eager to connect with bright minds, whether you're a student, a researcher, or an industry professional.
