@@ -28,7 +28,7 @@ social: false # includes social icons at the bottom of the page
 We are a multidisciplinary team harnessing advanced mathematical and computational tools to address challenging questions in biophysics, protein design, and drug discovery.
 
 We seek curious, motivated students and researchers with a strong foundation in mathematics, physics, chemistry, biology or computer science.
-If you are interested in biological problems and eager to deepen your expertise across various fields, we want you on our team.
+If you are interested in biological problems and deepening your research expertise in an interdisciplinary field, we want you on our team.
 Join us in a collaborative environment to advance research for applications in biomedicine and biotechnology.
 Our work goes beyond the lab, aiming to design innovative therapeutic proteins that can have profound impact on people's lives.
 
