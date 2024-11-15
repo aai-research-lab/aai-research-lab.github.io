@@ -15,10 +15,4 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p></p>
-   - align: left
-    image: aina.jpeg
-    content: about_aina.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p></p>
 ---
