@@ -40,4 +40,4 @@ We believe in the transformative power of computational science to revolutionize
 
 For more information, check out our [publications](https://ainaadekunle.github.io/publications) and stay updated on latest [news](https://ainaadekunle.github.io/news). 
 You can connect with us on [LinkedIn](https://www.linkedin.com/company/aa-research-lab) to engage with our research and network with our [team](https://ainaadekunle.github.io/team). 
-Contact [Dr. Aina](https://www.linkedin.com/in/ainaadekunle) if you would like to [join](https://ainaadekunle.github.io/join) the [team](https://ainaadekunle.github.io/team).
+Contact [Dr. Aina](https://www.linkedin.com/in/ainaadekunle) if you would like to [join the team](https://ainaadekunle.github.io/join).
