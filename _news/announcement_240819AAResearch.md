@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A.A. Research Lab opens at California State University Dominguez Hills.
+**A:Ai** Research Lab opens at California State University Dominguez Hills.

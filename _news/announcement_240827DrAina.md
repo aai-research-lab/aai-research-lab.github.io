@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr. Aina was Invitated to Present at the Department of Chemistry and Biochemisty, California State University Long Beach
+Dr. Aina was Invited to Present at the Department of Chemistry and Biochemisty, California State University Long Beach

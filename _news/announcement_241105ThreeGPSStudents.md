@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Three (3) Guided Pathways for STEM (GPS) students: Oliche Brown, Alyssa Shaw, and Guadalupe Alonso-Aguilar join A.A. Research Lab.
+Three (3) Guided Pathways for STEM (GPS) students: Oliche Brown, Alyssa Shaw, and Guadalupe Alonso-Aguilar join **A:Ai** Research Lab.
