@@ -24,7 +24,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Welcome to **A:Ai Research Lab**oratory for Computational Science. 
+### Welcome!
+ 
 We are advancing research at the intersection of physics, chemistry, and biology, harnessing the power of mathematical and computational tools to address challenging questions in biophysics and protein design for applications in biomedicine and biotechnology. [Join us](https://ainaadekunle.github.io/join) in this exciting frontier of computational science and be a part of revolutionizing the future of healthcare.
 
 ### Research
