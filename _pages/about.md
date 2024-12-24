@@ -24,8 +24,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Welcome to **A.A. Research Lab**oratory for Computational Science. 
-We are advancing research at the intersection of physics, chemistry, and biology, harnessing the power of mathematical and computational tools to address some of the most challenging questions in biophysics and protein design for applications in biomedicine and biotechnology. [Join us](https://ainaadekunle.github.io/join) in this exciting frontier of computational science and be a part of revolutionizing the future of healthcare.
+Welcome to **A:Ai Research Lab**oratory for Computational Science. 
+We are advancing research at the intersection of physics, chemistry, and biology, harnessing the power of mathematical and computational tools to address challenging questions in biophysics and protein design for applications in biomedicine and biotechnology. [Join us](https://ainaadekunle.github.io/join) in this exciting frontier of computational science and be a part of revolutionizing the future of healthcare.
 
 ### Research
 
@@ -36,8 +36,8 @@ We are advancing research at the intersection of physics, chemistry, and biology
 **Drug Discovery --** We apply protein design techniques to immunogen and antibody design to tackle practical problems in drug discovery for neurodegenerative diseases.
 
 
-We believe in the transformative power of computational science to revolutionize the way we study biological systems such as proteins. Our research doesn’t just stay in the lab—it has the potential to create real-world solutions like the development of new therapeutic proteins that can change lives.
+We believe in the transformative power of computational science to revolutionize the way we study biological systems such as proteins. Our research doesn’t just stay in the lab—it has the potential to create real-world solutions like the development of new therapeutic proteins that can have positive impact on peoples lives.
 
 For more information, check out our [publications](https://ainaadekunle.github.io/publications) and stay updated on latest [news](https://ainaadekunle.github.io/news). 
-You can connect with us on [LinkedIn](https://www.linkedin.com/company/aa-research-lab) to engage with our research and network with our [team](https://ainaadekunle.github.io/team). 
+You can connect with us on [LinkedIn](https://www.linkedin.com/company/aai-research-lab) to engage with our research and network with our [team](https://ainaadekunle.github.io/team). 
 Contact [Dr. Aina](https://www.linkedin.com/in/ainaadekunle) if you would like to [join the team](https://ainaadekunle.github.io/join).

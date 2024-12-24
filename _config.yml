@@ -3,17 +3,17 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: A.A.
+first_name: A:Ai
 middle_name: Research 
 last_name: Lab
 email: kunleaina@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Website for A.A. Research Lab.
+  Website for A:Ai Research Lab.
 footer_text: >
   
 keywords:  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: AAResLab_Logo.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: aaiResLab_Logo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ainaadekunle.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/ or /al-folio. Leave blank for root

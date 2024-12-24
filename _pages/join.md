@@ -30,7 +30,7 @@ We are a multidisciplinary team harnessing advanced mathematical and computation
 We seek curious, motivated students and researchers with a strong foundation in mathematics, physics, chemistry, biology or computer science.
 If you are interested in biological problems and deepening your research expertise in an interdisciplinary field, we want you on our team.
 Join us in a collaborative environment to advance research for applications in biomedicine and biotechnology.
-Our work goes beyond the lab, aiming to design innovative therapeutic proteins that can have profound impact on people's lives.
+Our work goes beyond the lab, aiming to design innovative therapeutic proteins that can have profound impact on people's health.
 
 Please contact [Dr. Aina](https://www.linkedin.com/in/ainaadekunle) if you are interested in joining our research efforts or collaborating with us. We are always eager to connect with bright minds, whether you're a student, a researcher, or an industry professional.
 
