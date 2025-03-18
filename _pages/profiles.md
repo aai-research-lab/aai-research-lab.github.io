@@ -21,4 +21,11 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p></p>
+  - align: left
+    image: aaiResLabPhoto.png
+    content: about_alyssa.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p></p>
+
 ---
