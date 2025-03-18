@@ -16,7 +16,7 @@ profiles:
     more_info: >
       <p></p>
   - align: left
-    image: aaiResLab_Logo.png
+    image: aaiResLabPhoto.png
     content: about_guadalupe.md
     image_circular: true # crops the image to make it circular
     more_info: >
