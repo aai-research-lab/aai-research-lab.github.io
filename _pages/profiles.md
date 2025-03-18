@@ -27,5 +27,16 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p></p>
+    image: aaiResLabPhoto.png
+    content: about_oliche.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p></p>
+  - align: left
+    image: aaiResLabPhoto.png
+    content: about_aaron.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p></p>
 
 ---

@@ -1,4 +1,4 @@
-#### Alyss Shaw
+#### Alyssa Shaw
 
 ##### Research Intern  
 
