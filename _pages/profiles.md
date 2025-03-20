@@ -16,19 +16,19 @@ profiles:
     more_info: >
       <p></p>
   - align: left
-    image: guadalupe_Photo.png
+    image: guadalupe.png
     content: about_guadalupe.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p></p>
   - align: left
-    image: alyssa_Photo.JPG
+    image: alyssa_photo.JPG
     content: about_alyssa.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p></p>
   - align: left
-    image: oliche_Photo.jpg
+    image: oliche_photo.jpg
     content: about_oliche.md
     image_circular: true # crops the image to make it circular
     more_info: >
