@@ -16,14 +16,20 @@ profiles:
     more_info: >
       <p></p>
   - align: left
-    image: guadalupe.png
-    content: about_guadalupe.md
+    image: aaiResLabPhoto.png
+    content: about_aaron.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p></p>
   - align: left
-    image: alyssa_photo.JPG
+    image: alyssa_shaw.png
     content: about_alyssa.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p></p>
+  - align: left
+    image: guadalupe.png
+    content: about_guadalupe.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p></p>
