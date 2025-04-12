@@ -5,17 +5,17 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: A:Ai
 middle_name: Research 
-last_name: Lab
-email: kunleaina@gmail.com
+last_name: Labs
+email: aai-research-labs@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Website for A:Ai Research Lab.
+  Website for A:Ai Research Labs.
 footer_text: >
   
 keywords:  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: aaiResLab_Logo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://ainaadekunle.github.io # the base hostname & protocol for your site
+url: https://aai-research-labs.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/ or /al-folio. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -77,7 +77,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
 github_username: # your GitHub user name
-gitlab_username: ainaadekunle # your GitLab user name
+gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id:  # Inspire HEP author ID
 instagram_id: # your instagram id
@@ -131,8 +131,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: A.A. Blog # blog_name will be displayed in your blog page
-blog_description: A blog by A.A. Research Lab
+blog_name: A:Ai Blog # blog_name will be displayed in your blog page
+blog_description: A blog by A:Ai Research Labs
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
