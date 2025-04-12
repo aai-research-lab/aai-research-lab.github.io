@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ainaadekunle.github.io/sitemap.xml
+Sitemap: https://aai-research-labs.github.io/sitemap.xml
