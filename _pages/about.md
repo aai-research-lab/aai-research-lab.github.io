@@ -26,7 +26,7 @@ social: false # includes social icons at the bottom of the page
 
 ### Welcome!
  
-We are advancing research at the intersection of physics, chemistry, and biology, harnessing the power of mathematical and computational tools to address challenging questions in biophysics and protein design for applications in biomedicine and biotechnology. [Join us](https://aai-research-labs.github.io/join) in this exciting frontier of computational science and be a part of revolutionizing the future of healthcare.
+We are advancing research at the intersection of physics, chemistry, and biology, harnessing the power of mathematical and computational tools to address challenging questions in biophysics and protein design for applications in biomedicine and biotechnology. [Join us](https://aai-research-lab.github.io/join) in this exciting frontier of computational science and be a part of revolutionizing the future of healthcare.
 
 ### Research
 
@@ -39,6 +39,6 @@ We are advancing research at the intersection of physics, chemistry, and biology
 
 We believe in the transformative power of computational science to revolutionize the way we study biological systems such as proteins. Our research doesn’t just stay in the lab—it has the potential to create real-world solutions like the development of new therapeutic proteins that can have positive impact on people's lives.
 
-For more information, check out our [publications](https://aai-research-labs.github.io/publications) and stay updated on latest [news](https://aai-research-labs.github.io/news). 
-You can connect with us on [LinkedIn](https://www.linkedin.com/company/aai-research-labs) to engage with our research and network with our [team](https://aai-research-labs.github.io/team). 
-Contact [Dr. Aina](https://www.linkedin.com/in/ainaadekunle) if you would like to [join the team](https://aai-research-labs.github.io/join).
+For more information, check out our [publications](https://aai-research-lab.github.io/publications) and stay updated on latest [news](https://aai-research-lab.github.io/news). 
+You can connect with us on [LinkedIn](https://www.linkedin.com/company/aai-research-labs) to engage with our research and network with our [team](https://aai-research-lab.github.io/team). 
+Contact [Dr. Aina](https://www.linkedin.com/in/ainaadekunle) if you would like to [join the team](https://aai-research-lab.github.io/join).
