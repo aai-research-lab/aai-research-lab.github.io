@@ -17,22 +17,22 @@ profiles:
       <p></p>
   - align: left
     image: aaiResLabPhoto.png
-    content: about_aaron.md
+    content: about_santi.md
     image_circular: true # crops the image to make it circular
     more_info: >
   - align: left
     image: aaiResLabPhoto.png
-    content: about_aaron.md
+    content: about_jessica.md
     image_circular: true # crops the image to make it circular
     more_info: >
   - align: left
     image: aaiResLabPhoto.png
-    content: about_aaron.md
+    content: about_jessie.md
     image_circular: true # crops the image to make it circular
     more_info: >
   - align: left
     image: aaiResLabPhoto.png
-    content: about_aaron.md
+    content: about_daira.md
     image_circular: true # crops the image to make it circular
     more_info: >
   - align: left
