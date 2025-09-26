@@ -2,7 +2,7 @@
 
 ##### Research Intern  
 
-✉️  daguilar115 [at] toromail.csudh.edu  
+✉️  sgarcia1 [at] toromail.csudh.edu  
 🌐 [LinkedIn](https://www.linkedin.com/in/santiago-tecuanhuey-garcia)  
 
 Santi is a Computer Science student at California State University of Dominguez Hills. 

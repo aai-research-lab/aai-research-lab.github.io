@@ -36,7 +36,7 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
   - align: left
-    image: aaiResLabPhoto.png
+    image: aaron_demesa.jpeg
     content: about_aaron.md
     image_circular: true # crops the image to make it circular
     more_info: >
