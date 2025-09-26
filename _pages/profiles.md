@@ -21,7 +21,7 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
   - align: left
-    image: jessica_barrios.JPG
+    image: jessica_barrios.png
     content: about_jessica.md
     image_circular: true # crops the image to make it circular
     more_info: >
