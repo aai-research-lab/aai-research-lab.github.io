@@ -1,0 +1,12 @@
+#### Santiago T. Garcia
+
+##### Research Intern  
+
+✉️  daguilar115 [at] toromail.csudh.edu  
+🌐 [LinkedIn](https://www.linkedin.com/in/santiago-tecuanhuey-garcia)  
+
+Santi is a Computer Science student at California State University of Dominguez Hills. 
+He is a GPS Research Intern at AAi Research Lab. 
+He is interested in computational biology. 
+
+
