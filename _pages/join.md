@@ -12,7 +12,7 @@ profile:
   image: AAResLab_building.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Labs C121 and C315</p>
+    <p>Labs C131 and C121</p>
     <p>Natural Science Building</p>
     <p>California State University</p>
     <p> Dominguez Hills</p>
