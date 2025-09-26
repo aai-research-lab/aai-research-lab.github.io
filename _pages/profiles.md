@@ -21,17 +21,17 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
   - align: left
-    image: aaiResLabPhoto.png
+    image: jessica_barrios.JPG
     content: about_jessica.md
     image_circular: true # crops the image to make it circular
     more_info: >
   - align: left
-    image: aaiResLabPhoto.png
+    image: jessie_flores.png
     content: about_jessie.md
     image_circular: true # crops the image to make it circular
     more_info: >
   - align: left
-    image: aaiResLabPhoto.png
+    image: daira_aguilar.jpeg
     content: about_daira.md
     image_circular: true # crops the image to make it circular
     more_info: >
