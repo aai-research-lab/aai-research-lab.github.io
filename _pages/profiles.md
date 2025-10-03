@@ -16,6 +16,11 @@ profiles:
     more_info: >
       <p></p>
   - align: left
+    image: derrick_kwan.png
+    content: about_derrick.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+  - align: left
     image: aaiResLabPhoto.png
     content: about_santi.md
     image_circular: true # crops the image to make it circular
