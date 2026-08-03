@@ -215,30 +215,30 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  classifier-reborn
+  classifier-reborn (~> 2.3)
   css_parser
   feedjira
   httparty
-  jekyll
-  jekyll-archives
+  jekyll (~> 4.3)
+  jekyll-archives (~> 2.2)
   jekyll-email-protect
-  jekyll-feed
+  jekyll-feed (~> 0.17)
   jekyll-get-json
   jekyll-imagemagick
   jekyll-jupyter-notebook
   jekyll-link-attributes
-  jekyll-minifier
-  jekyll-paginate-v2
+  jekyll-minifier (~> 0.1)
+  jekyll-paginate-v2 (~> 3.0)
   jekyll-regex-replace
-  jekyll-scholar
-  jekyll-sitemap
+  jekyll-scholar (~> 7.1)
+  jekyll-sitemap (~> 1.4)
   jekyll-tabs
-  jekyll-toc
+  jekyll-toc (~> 0.18)
   jekyll-twitter-plugin
   jemoji
   mini_racer
   unicode_utils
-  webrick
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.5.7
