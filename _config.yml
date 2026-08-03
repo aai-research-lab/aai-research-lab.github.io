@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: A:Ai
+first_name: AAI
 middle_name: Research
 last_name: Lab
 email: aai-research-labs@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Website for A:Ai Research Lab.
+  Website for AAI Research Lab.
 footer_text: >
 
 keywords: # add your own keywords or leave empty
@@ -130,8 +130,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: A:Ai Blog # blog_name will be displayed in your blog page
-blog_description: A blog by A:Ai Research Lab
+blog_name: AAI Blog # blog_name will be displayed in your blog page
+blog_description: A blog by AAI Research Lab
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -218,7 +218,6 @@ kramdown:
 include: ["_pages"]
 exclude:
   - bin/
-  - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile
   - docker-compose.yml

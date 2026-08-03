@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Four new research students: Jessie Flores, Daira Aguilar, Santiago Garcia, and Jessica Barrios join **A:Ai** Research Lab. Welcome to you all!
+Four new research students: Jessie Flores, Daira Aguilar, Santiago Garcia, and Jessica Barrios join AAI Research Lab. Welcome to you all!

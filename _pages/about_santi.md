@@ -6,5 +6,5 @@
 🌐 [LinkedIn](https://www.linkedin.com/in/santiago-tecuanhuey-garcia)
 
 Santi is a Computer Science student at California State University, Dominguez Hills.
-He is a GPS Research Intern at **A:Ai** Research Lab.
+He is a GPS Research Intern at AAI Research Lab.
 He is interested in computational biology.

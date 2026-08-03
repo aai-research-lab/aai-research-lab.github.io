@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr. Aina gave a speech about **A:Ai** Research Lab at the inaugural College of Natural and Behavioral Sciences Open House.
+Dr. Aina gave a speech about AAI Research Lab at the inaugural College of Natural and Behavioral Sciences Open House.
