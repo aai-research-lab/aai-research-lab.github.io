@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-12-04 00:00:00-0400
+date: 2024-12-04 00:00:00-0700
 inline: true
 related_posts: false
 ---
 
-Dr. Aina gave an invited seminar talk titled *"Computational Protein Design of  Immunogens for Neurodegenerative Diseases"* at the Department of Chemistry and Biochemistry, CSU Long Beach.
+Dr. Aina gave an invited seminar talk titled _"Computational Protein Design of Immunogens for Neurodegenerative Diseases"_ at the Department of Chemistry and Biochemistry, CSU Long Beach.

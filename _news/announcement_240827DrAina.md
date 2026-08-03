@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-08-27 00:00:00-0400
+date: 2024-08-27 00:00:00-0700
 inline: true
 related_posts: false
 ---
 
-Dr. Aina was Invited to Present at the Department of Chemistry and Biochemisty, California State University Long Beach
+Dr. Aina was invited to present at the Department of Chemistry and Biochemistry, California State University Long Beach.
