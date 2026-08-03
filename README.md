@@ -25,9 +25,39 @@ We believe in the transformative power of computational science to revolutionize
 
 ## Software
 
-| Project                                                                  | Description                                                                                                                                                                                                                                                                                                                                                |
-| ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**FastMDAnalysis**](https://github.com/aai-research-lab/FastMDAnalysis) | Automated, reproducible end-to-end analysis of molecular dynamics trajectories — one command replaces a scripting session. Over 90% less code than standard workflows. <br> [`pip install fastmdanalysis`](https://pypi.org/project/fastmdanalysis/) · [documentation](https://fastmdanalysis.readthedocs.io) · [paper](https://doi.org/10.1002/jcc.70350) |
+### FastMDXplora
+
+**F**ully **A**utomated **Sy**s**T**em for **M**olecular **D**ynamics e**Xplora**tion
+
+FastMDXplora explores a protein's behaviour end to end from a single command. Given a structure — or just a PDB ID — it carries out molecular dynamics exploration through setup, simulation, analysis, and reporting, and hands back publication-ready results.
+
+```
+setup  →  simulation  →  analysis  →  report
+```
+
+| Phase          | What it does                                                                                                                       |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **setup**      | Cleans up the structure and builds a simulation-ready system: fixes missing atoms, adds hydrogens, solvates, and adds ions.        |
+| **simulation** | Runs the molecular dynamics — energy minimization, equilibration, and production — with optional enhanced sampling.                |
+| **analysis**   | Computes standard structural and dynamic metrics, and protein–ligand metrics where a ligand is present, with figures ready to use. |
+| **report**     | Packages everything into a slide deck, a written report, and a self-contained bundle you can share.                                |
+
+- Explore a protein's full dynamics with one command, covering setup, simulation, analysis, and reporting
+- Build a protein–ligand system from a PDB identifier alone: the ligand is identified, its chemistry retrieved, and its protonation settled in the binding site — with a refusal rather than a guess where the structure is ambiguous
+- Probe protein–ligand binding automatically, with analyses for pose stability, contacts, and hydrogen bonds
+- Reach beyond plain MD with built-in PLUMED enhanced sampling: metadynamics, umbrella sampling, steered MD
+- Design, start, watch, and review an exploration from a browser, with a 3D viewer and live telemetry
+- Scale from a quick single-protein exploration to large parallel campaigns, driven the same way from the CLI or the Python API
+
+```bash
+pip install fastmdxplora
+```
+
+Analysis and reporting are pure pip. Setup and simulation additionally require OpenMM and PDBFixer from conda-forge — see the [installation guide](https://fastmdxplora.readthedocs.io/en/latest/installation.html).
+
+[GitHub](https://github.com/aai-research-lab/FastMDXplora) · [Documentation](https://fastmdxplora.readthedocs.io) · [PyPI](https://pypi.org/project/fastmdxplora/) · MIT licence
+
+The foundational methodology is described in the FastMDAnalysis paper below. A further publication describing FastMDXplora is in preparation.
 
 ## Publications
 
@@ -54,8 +84,8 @@ _ACS Chemical Neuroscience_ **14**(15), 2603–2617 (2023)
 
 **PROTHON: A Local Order Parameter-Based Method for Efficient Comparison of Protein Ensembles**
 A. Aina, S. C. C. Hsueh, S. S. Plotkin
-_Journal of Chemical Information and Modeling_ (2023)
-[doi:10.1021/acs.jcim.3c00145](https://doi.org/10.1021/acs.jcim.3c00145) · [PDF](assets/pdf/Aina2023Prothon.pdf) · [code](https://github.com/PlotkinLab/Prothon)
+_Journal of Chemical Information and Modeling_ **63**(11), 3453–3461 (2023)
+[doi:10.1021/acs.jcim.3c00145](https://doi.org/10.1021/acs.jcim.3c00145) · [PDF](assets/pdf/Aina2023Prothon.pdf) · [code](https://github.com/aai-research-lab/Prothon)
 
 ### 2022
 
@@ -92,20 +122,21 @@ _The Journal of Chemical Physics_ **147**(9) (2017)
 
 Courses taught by Dr. Aina at California State University, Dominguez Hills.
 
-| Course  | Title                    | Terms                |
-| ------- | ------------------------ | -------------------- |
-| BPH 330 | Biological Physics       | Fall 2024, Fall 2025 |
-| BPH 406 | Computational Biophysics | Spring 2025          |
-| PHY 120 | Elements of Physics I    | Fall 2024            |
-| PHY 122 | Elements of Physics II   | Spring 2025          |
-| PHY 346 | Thermal Physics          | Fall 2025            |
-| PHY 350 | Electromagnetic Theory I | Fall 2025            |
+| Course  | Title                     | Terms                                         |
+| ------- | ------------------------- | --------------------------------------------- |
+| BPH 330 | Biological Physics        | Fall 2024, Fall 2025                          |
+| BPH 406 | Computational Biophysics  | Spring 2025                                   |
+| PHY 120 | Elements of Physics I     | Fall 2024, Summer 2025                        |
+| PHY 122 | Elements of Physics II    | Spring 2025, Spring 2026 (+ Lab), Summer 2026 |
+| PHY 346 | Thermal Physics           | Fall 2025                                     |
+| PHY 350 | Electromagnetic Theory I  | Fall 2025                                     |
+| PHY 352 | Electromagnetic Theory II | Spring 2026                                   |
 
 ## Team
 
 ### Adekunle Aina, Ph.D. — Lead Scientist
 
-✉️ aaina [at] csudh.edu · 🌐 [LinkedIn](https://www.linkedin.com/in/ainaadekunle) · [ORCID 0000-0002-8215-7452](https://orcid.org/0000-0002-8215-7452)
+✉️ aaina [at] csudh.edu · 🌐 [LinkedIn](https://www.linkedin.com/in/ainaadekunle) · [ORCID](https://orcid.org/0000-0002-8215-7452) · [Google Scholar](https://scholar.google.com/citations?user=t7ARddEAAAAJ)
 
 Dr. Aina is an Assistant Professor of Physics and Biophysics at California State University, Dominguez Hills. He received his Ph.D. in Physics at the University of British Columbia. His research focuses on computational protein design of immunogens for neurodegenerative diseases. Previously, he was a College Professor at Okanagan College and worked as an Associate Scientist at the biotech company ProMIS Neurosciences. He is interested in computational science to tackle problems at the intersection of physics, chemistry, and biology for applications in biomedicine and biotechnology.
 
@@ -115,61 +146,85 @@ Dr. Aina is an Assistant Professor of Physics and Biophysics at California State
 
 Derrick is a student at the California Academy of Math and Science and a Research Assistant at AAI Research Lab. He is interested in applying computational methods to address challenges in biotechnology.
 
-### Santiago T. Garcia — Research Intern
+### Alumni
+
+#### Santiago T. Garcia — Research Intern
 
 ✉️ sgarcia1 [at] toromail.csudh.edu · 🌐 [LinkedIn](https://www.linkedin.com/in/santiago-tecuanhuey-garcia)
 
-Santi is a Computer Science student at California State University, Dominguez Hills. He is a GPS Research Intern at AAI Research Lab. He is interested in computational biology.
+Santi is a Computer Science student at California State University, Dominguez Hills. He was a GPS Research Intern at AAI Research Lab. He is interested in computational biology.
 
-### Jessica Barrios — Research Intern
+#### Jessica Barrios — Research Intern
 
 ✉️ jbarrios62 [at] toromail.csudh.edu · 🌐 [LinkedIn](https://www.linkedin.com/in/jessica-lynn-barrios-b8184a297)
 
-Jessica is a Computer Science student at California State University, Dominguez Hills. She is a GPS Research Intern at AAI Research Lab, as well as a Lead Technician at Toyota's CISE Fabrication Lab. She is interested in computational biology, data analysis, and software development.
+Jessica is a Computer Science student at California State University, Dominguez Hills. She was a GPS Research Intern at AAI Research Lab, as well as a Lead Technician at Toyota's CISE Fabrication Lab. She is interested in computational biology, data analysis, and software development.
 
-### Jessie Flores — Research Intern
+#### Jessie Flores — Research Intern
 
 ✉️ jflores534 [at] toromail.csudh.edu · 🌐 [LinkedIn](https://www.linkedin.com/in/jessie-flores)
 
-Jessie is a Computer Science student at California State University, Dominguez Hills. He is an Intern at AAI Research Lab. He is interested in computational biology, data analysis, and software development.
+Jessie is a Computer Science student at California State University, Dominguez Hills. He was an Intern at AAI Research Lab. He is interested in computational biology, data analysis, and software development.
 
-### Daira Aguilar — Research Intern
+#### Daira Aguilar — Research Intern
 
 ✉️ daguilar115 [at] toromail.csudh.edu · 🌐 [LinkedIn](https://www.linkedin.com/in/daira-aguilar-552434307)
 
-Daira is a Computer Science student at California State University, Dominguez Hills. She is a GPS Research Intern at AAI Research Lab. She is interested in computational science and machine learning.
+Daira is a Computer Science student at California State University, Dominguez Hills. She was a GPS Research Intern at AAI Research Lab. She is interested in computational science and machine learning.
 
-### Aaron Demesa — Research Intern
+#### Aaron Demesa — Research Intern
 
 ✉️ ademesa1 [at] toromail.csudh.edu
 
-Aaron is a Biology student at California State University, Dominguez Hills. He is a GPS Research Intern at AAI Research Lab. He is interested in computational biology.
+Aaron is a Biology student at California State University, Dominguez Hills. He was a GPS Research Intern at AAI Research Lab. He is interested in computational biology.
 
-### Alyssa Shaw — Research Intern
+#### Alyssa Shaw — Research Intern
 
 ✉️ ashaw36 [at] toromail.csudh.edu
 
-Alyssa is a Computer Technology student at California State University, Dominguez Hills. She is a GPS Research Intern at AAI Research Lab. She is interested in computational science.
+Alyssa is a Computer Technology student at California State University, Dominguez Hills. She was a GPS Research Intern at AAI Research Lab. She is interested in computational science.
 
-### Guadalupe Alonso-Aguilar — Research Intern
+#### Guadalupe Alonso-Aguilar — Research Intern
 
 ✉️ galonsoaguilar1 [at] toromail.csudh.edu
 
-Guadalupe is a student in the Department of Chemistry and Biochemistry at California State University, Dominguez Hills. She is a GPS Research Intern at AAI Research Lab. She is interested in computational biology.
+Guadalupe is a student in the Department of Chemistry and Biochemistry at California State University, Dominguez Hills. She was a GPS Research Intern at AAI Research Lab. She is interested in computational biology.
 
-### Oliche Brown — Research Intern
+#### Oliche Brown — Research Intern
 
 ✉️ obrown6 [at] toromail.csudh.edu · 🌐 [LinkedIn](https://www.linkedin.com/in/oliche-brown-a14a27338)
 
-Oliche is a Biology student at California State University, Dominguez Hills. She is a GPS Research Intern at AAI Research Lab. She is interested in computational biology.
+Oliche is a Biology student at California State University, Dominguez Hills. She was a GPS Research Intern at AAI Research Lab. She is interested in computational biology.
 
 ## News
 
-**29 Sep 2025** — Congratulations to Oliche, who has been awarded the Fall 2025 Undergraduate Research Award!
+**1 Jul 2026** — The lab is part of a **\$30,000** CSU LIFT Grant for _Future-Forward Biophysics: A Program-Level Durable Skills Pathway through VR-, AI-, Research-, and Experiential Learning_. PI: Horace Crogman; Dr. Aina is a Co-PI.
 
-**25 Sep 2025** — Dr. Aina participated in the 4th Annual Meet a Mentor Event at CSU Dominguez Hills, showcasing research opportunities in computational science at AAI Research Lab.
+**29 Mar 2026** — Our manuscript on **FastMDAnalysis** is published in the _Journal of Computational Chemistry_. One command gives a full molecular dynamics analysis plus presentation slides, with over 90% less code than standard workflows. [Paper](https://doi.org/10.1002/jcc.70350) (open access) · [Software](https://github.com/aai-research-lab/FastMDAnalysis)
 
-**12 Sep 2025** — Four new research students join AAI Research Lab: Jessie Flores, Daira Aguilar, Santiago Garcia, and Jessica Barrios. Welcome to you all!
+**1 Mar 2026** — Dr. Aina gave an oral presentation titled _"Automated Analysis of Molecular Dynamics Trajectories"_ at the CSUDH Research Symposium.
+
+**1 Feb 2026** — Dr. Aina presented a poster on _Efficient Comparison of Protein Conformational Ensembles_ at the 70th Annual Meeting of the Biophysical Society in San Francisco.
+
+**1 Nov 2025** — Dr. Aina gave an oral presentation titled _"Automated Analysis of Molecular Dynamics Trajectories with FastMDAnalysis"_ at the 5th Annual 3×2 Research Presentations, CSU Dominguez Hills.
+
+**1 Oct 2025** — Dr. Aina attended the Cal-Bridge Fall Conference at UC Irvine.
+
+**29 Sep 2025** — Congratulations to Oliche who has been awarded the Fall 2025 Undergraduate Research Award!
+
+**25 Sep 2025** — Dr. Aina participated in The 4th Annual Meet a Mentor Event at CSU Dominguez Hills, showcasing research opportunities in computational science at AAI Research Lab.
+
+**12 Sep 2025** — Four new research students: Jessie Flores, Daira Aguilar, Santiago Garcia, and Jessica Barrios join AAI Research Lab. Welcome to you all!
+
+**1 Jul 2025** — Dr. Aina gave an invited talk titled _"Protein Immunogen Engineering with AI Algorithms"_ at the MSEIP Summer Program, CSU Dominguez Hills.
+
+**1 Jun 2025** — Dr. Aina received a **\$6,000** EFA Faculty Legacy Fund award for _Deep Learning the Energy Landscape of a Coarse-Grained Model of Proteins_.
+
+**1 Apr 2025** — The lab is part of a **\$200,000** California Learning Lab award for _Revolutionizing STEM Education: Integrating AI and Virtual Reality to Enhance Learning and Engagement_. PI: Horace Crogman; Dr. Aina is a Co-PI.
+
+**1 Mar 2025** — Dr. Aina gave an oral presentation titled _"Design of Multi-Epitope Protein Immunogens with AI Algorithms"_ at the CSUDH Research Symposium.
+
+**15 Jan 2025** — Dr. Aina attended the inaugural BioLogic Summit, _Demystifying AI/ML for Biologic Drug Development_, in San Diego, California.
 
 **4 Dec 2024** — Dr. Aina gave an invited seminar talk titled _"Computational Protein Design of Immunogens for Neurodegenerative Diseases"_ at the Department of Chemistry and Biochemistry, CSU Long Beach.
 
@@ -177,11 +232,13 @@ Oliche is a Biology student at California State University, Dominguez Hills. She
 
 **21 Nov 2024** — The 3rd Annual Meet a Mentor Event at CSU Dominguez Hills. Dr. Aina participated by showcasing research opportunities in computational science at AAI Research Lab.
 
-**14 Nov 2024** — Dr. Aina presented at the 4th Annual CSUDH 3x2 Research Presentations.
+**14 Nov 2024** — Dr. Aina presented at The 4th Annual CSUDH 3x2 Research Presentations.
 
-**5 Nov 2024** — Three Guided Pathways for STEM (GPS) students join AAI Research Lab: Oliche Brown, Alyssa Shaw, and Guadalupe Alonso-Aguilar.
+**5 Nov 2024** — Three (3) Guided Pathways for STEM (GPS) students: Oliche Brown, Alyssa Shaw, and Guadalupe Alonso-Aguilar join AAI Research Lab.
 
 **27 Aug 2024** — Dr. Aina was invited to present at the Department of Chemistry and Biochemistry, California State University Long Beach.
+
+**20 Aug 2024** — AAI Research Lab is established with a **\$70,000** CSUDH Startup Fund award to Dr. Aina, for the project _Establishing a Computational Biophysics Research Laboratory_.
 
 **19 Aug 2024** — AAI Research Lab opens at California State University Dominguez Hills.
 
@@ -196,18 +253,18 @@ Hi all:
 
 Please join me in welcoming Dr. Adekunle Aina to the CSUDH Physics Department! Dr. Aina comes to us from Okanagan College in Kelowna, Canada, where he served as an instructor in Mathematics and Statistics. He is joining Dr. Crogman in our newly-formed Biophysics major, which I am sure will soon take the University by storm.
 
-Dr. Aina received his Associate of Science degree in Mathematics, Physics, and Chemistry from Ahmadu Bello University in Zaria, Nigeria, and his Bachelor of Science degree in Applied/Engineering Physics from the University of Lagos in Lagos, Nigeria. He then moved to Canada, receiving his Master of Science degree in Physics from the University of Newfoundland in Newfoundland, Canada, and his Ph.D. in Physics and Biophysics from the University of British Columbia in Vancouver, Canada. He received his Ph.D. in 2023.
+Dr. Aina received his Associate of Science degree in Mathematics, Physics, and Chemistry from Ahmadu Bello University in Zaria, Nigeria, and his Bachelor of Science degree in Applied/Engineering Physics from the University of Lagos in Lagos, Nigeria. He then moved to Canada, receiving his Master of Science degree in Physics from the University of Newfoundland in Newfoundland, Canada, and his Ph.D. In Physics and Biophysics from the University of British Columbia in Vancouver, Canada. He received his Ph.D. in 2023.
 
 Side note: UBC is also the home of TRIUMF, a particle accelerator where I performed my first published physics experiment as an undergraduate way back in 1985. Yes, I'm old. Back to Dr. Aina...
 
-Dr. Aina did his doctoral dissertation on "Computational Modeling and Design of Oligomer Selective Immunogens for Parkinson's and Alzheimer's Disease". It's available online, but I'll let you search for it yourself — it's not that hard to find.
+Dr. Aina did his doctoral dissertation on "Computational Modeling and Design of Oligomer Selective Immunogens for Parkinson's and Alzheimer's Disease". It's available online, but I'll let you search for it yourself – it's not that hard to find.
 
 Dr. Aina has performed research in Computational Physics and Biophysics, Bioinformatics, and Data Science. He brings with him a wealth of knowledge and experience in the field, and I am confident that he will be a tremendous addition to the Physics Department.
 
 As we begin the new semester, please take a moment to stop by his office and say hi, and welcome into our community.
 
-> **Dr. John Price**
-> Professor and Chair, Department of Physics
+> **Dr. John Price**  
+> Professor and Chair, Department of Physics  
 > California State University Dominguez Hills
 
 </details>

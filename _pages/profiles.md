@@ -4,7 +4,7 @@ permalink: /team/
 title: Team
 description:
 nav: true
-nav_order: 4
+nav_order: 5
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -20,7 +20,8 @@ profiles:
     content: about_derrick.md
     image_circular: true # crops the image to make it circular
     more_info: >
-  - align: left
+  - section: Alumni
+    align: left
     image: aaiResLabPhoto.png
     content: about_santi.md
     image_circular: true # crops the image to make it circular

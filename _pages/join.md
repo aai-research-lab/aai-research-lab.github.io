@@ -4,7 +4,7 @@ title: Join
 permalink: /join/
 subtitle: Laboratory for Computational Science
 nav: true
-nav_order: 5
+nav_order: 6
 
 profile:
   align: right

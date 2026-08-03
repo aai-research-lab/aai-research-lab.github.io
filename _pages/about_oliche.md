@@ -6,5 +6,5 @@
 🌐 [LinkedIn](https://www.linkedin.com/in/oliche-brown-a14a27338)
 
 Oliche is a Biology student at California State University Dominguez Hills.
-She is a GPS Research Intern at AAI Research Lab.
+She was a GPS Research Intern at AAI Research Lab.
 She is interested in computational biology.
