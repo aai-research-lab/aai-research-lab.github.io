@@ -44,6 +44,7 @@ jobs:
             --base https://aai-research-lab.github.io
             --exclude 'linkedin\.com'
             --exclude '^https?://(localhost|127\.0\.0\.1)'
+            --exclude 'doi\.org|onlinelibrary\.wiley\.com|pubs\.acs\.org'
             --max-retries 2
             --exclude-path _pages/404.md
             --exclude-path al-folio_README.md
