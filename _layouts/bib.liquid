@@ -150,6 +150,13 @@
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
     {% if entry.type == 'article' %}
       {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
+      {% if entry.volume %}
+        {% capture entrytype %}{{ entrytype }} <strong>{{ entry.volume }}</strong>{% if entry.number %}({{ entry.number }}){% endif %}{% endcapture %}
+      {% endif %}
+      {% if entry.pages %}
+        {% assign entrypages = entry.pages | replace: '--', '–' %}
+        {% capture entrytype %}{{ entrytype }}, {{ entrypages }}{% endcapture %}
+      {% endif %}
     {% elsif proceedings contains entry.type %}
       {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
     {% elsif thesis contains entry.type %}

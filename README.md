@@ -5,7 +5,7 @@
 Department of Physics · California State University, Dominguez Hills
 Labs C131 and C121, Natural Science Building · 1000 E Victoria Street, Carson, CA 90747
 
-🌐 [aai-research-lab.github.io](https://aai-research-lab.github.io) · 💼 [LinkedIn](https://www.linkedin.com/company/aai-research-labs) · ✉️ aaina [at] csudh.edu
+🌐 [aai-research-lab.github.io](https://aai-research-lab.github.io) · 💼 [LinkedIn](https://www.linkedin.com/company/aai-research-lab) · ✉️ aaina [at] csudh.edu
 
 ---
 
