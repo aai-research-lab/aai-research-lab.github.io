@@ -48,3 +48,51 @@ Analysis and reporting are pure pip. Setup and simulation additionally require O
 Aina, A. and Kwan, D. _FastMDAnalysis: Software for Automated Analysis of Molecular Dynamics Trajectories._ Journal of Computational Chemistry **47**(8), e70350 (2026). [doi:10.1002/jcc.70350](https://doi.org/10.1002/jcc.70350)
 
 A further publication describing FastMDXplora is in preparation.
+
+---
+
+## Prothon
+
+A Python package for efficient comparison of protein conformational ensembles using local order parameters.
+
+Prothon represents an ensemble as a vector of probability distributions over local structural measures, and quantifies dissimilarity between ensembles with a Jensen–Shannon distance metric and statistical significance testing. On ubiquitin ensembles it ran up to 88 times faster than ENCORE while using 48 times fewer computing cores.
+
+**Ensemble representations**
+
+- C-beta contact number (`cbcn`) and C-alpha contact number (`cacn`)
+- Virtual C-alpha–C-alpha bond angles (`caba`) and torsion angles (`cata`)
+- Solvent accessible surface area (`sasa`)
+
+**Also provides**
+
+- Local (per-residue) and global dissimilarity analysis with significance testing
+- Dimensionality reduction — PCA, MDS, and t-SNE — with 2D scatter plots
+- Ensemble matrices as CSV, heatmaps, and bar/line dissimilarity plots
+- A command-line tool and a Python API, with methods to replot and customise every figure
+
+[GitHub](https://github.com/aai-research-lab/Prothon) · [Paper](https://doi.org/10.1021/acs.jcim.3c00145)
+
+**Citation.** Aina, A., Hsueh, S. C. C. and Plotkin, S. S. _PROTHON: A Local Order Parameter-Based Method for Efficient Comparison of Protein Ensembles._ Journal of Chemical Information and Modeling **63**(11), 3453–3461 (2023). [doi:10.1021/acs.jcim.3c00145](https://doi.org/10.1021/acs.jcim.3c00145)
+
+---
+
+## CalphaEBM
+
+A physics-based, machine-learned protein C-alpha energy function that achieves native basin stability across diverse protein folds.
+
+CalphaEBM decomposes the effective free energy into four interpretable terms, totalling just 13,032 trainable parameters:
+
+| Term                | Parameters | What it captures                                                                                                                                   |
+| ------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **LocalEnergy**     | 12,226     | Backbone geometry: an 8-residue sliding-window MLP over (θ, φ) angles with learned amino acid embeddings                                           |
+| **SecondaryEnergy** | 583        | Ramachandran basin potentials — helix, sheet, PPII, turn — with sequence-dependent mixture weights, plus helical and sheet hydrogen bond distances |
+| **PackingEnergy**   | 222        | Tertiary packing: 5-group coordination statistics with product Gaussian scoring                                                                    |
+| **RepulsionEnergy** | 1          | Excluded volume: a PDB-derived repulsive wall with differentiable interpolation                                                                    |
+
+Every term produces smooth, differentiable forces suitable for Langevin dynamics (MALA) sampling.
+
+Trained on 2,280 high-quality monomeric protein chains (L = 40–512), the model holds native contacts (Q > 0.96) and native compactness (radius of gyration within 2% of the crystal structure) across all 16 validation proteins, which span a range of lengths and fold classes. On villin headpiece HP35 it maintained Q = 1.000 over one million MALA steps.
+
+[GitHub](https://github.com/aai-research-lab/CalphaEBM)
+
+Developed with support from the EFA Faculty Legacy Fund award _Deep Learning the Energy Landscape of a Coarse-Grained Model of Proteins_.
