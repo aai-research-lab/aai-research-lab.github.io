@@ -4,8 +4,7 @@ title: Join
 permalink: /join/
 subtitle: Laboratory for Computational Science
 nav: true
-nav_order: 7
-
+nav_order: 5
 
 profile:
   align: right
@@ -18,13 +17,14 @@ profile:
     <p> Dominguez Hills</p>
     <p>1000 E Victoria Street</p>
     <p>Carson, CA 90747</p>
-  
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+
 ### Join Us!
+
 We are a multidisciplinary team harnessing advanced mathematical and computational tools to address challenging questions in biophysics, protein design, and drug discovery.
 
 We seek curious, motivated students and researchers with a strong foundation in mathematics, physics, chemistry, biology or computer science.
@@ -33,5 +33,3 @@ Join us in a collaborative environment to advance research for applications in b
 Our work goes beyond the lab, aiming to design innovative therapeutic proteins that can have profound impact on people's health.
 
 Please contact [Dr. Aina](https://www.linkedin.com/in/ainaadekunle) if you are interested in joining our research efforts or collaborating with us. We are always eager to connect with bright minds, whether you're a student, a researcher, or an industry professional.
-
-
