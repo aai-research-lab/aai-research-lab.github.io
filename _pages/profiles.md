@@ -2,21 +2,21 @@
 layout: profiles
 permalink: /team/
 title: Team
-description: 
+description:
 nav: true
-nav_order: 6
+nav_order: 4
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
-    image: aina.jpeg
+    image: aina.jpg
     content: about_aina.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p></p>
   - align: left
-    image: derrick_kwan.png
+    image: derrick_kwan.jpg
     content: about_derrick.md
     image_circular: true # crops the image to make it circular
     more_info: >
@@ -26,34 +26,34 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
   - align: left
-    image: jessica_barrios.png
+    image: jessica_barrios.jpg
     content: about_jessica.md
     image_circular: true # crops the image to make it circular
     more_info: >
   - align: left
-    image: jessie_flores.png
+    image: jessie_flores.jpg
     content: about_jessie.md
     image_circular: true # crops the image to make it circular
     more_info: >
   - align: left
-    image: daira_aguilar.jpeg
+    image: daira_aguilar.jpg
     content: about_daira.md
     image_circular: true # crops the image to make it circular
     more_info: >
   - align: left
-    image: aaron_demesa.jpeg
+    image: aaron_demesa.jpg
     content: about_aaron.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p></p>
   - align: left
-    image: alyssa_shaw.png
+    image: alyssa_shaw.jpg
     content: about_alyssa.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p></p>
   - align: left
-    image: guadalupe.png
+    image: guadalupe.jpg
     content: about_guadalupe.md
     image_circular: true # crops the image to make it circular
     more_info: >
@@ -64,5 +64,4 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p></p>
-
 ---
