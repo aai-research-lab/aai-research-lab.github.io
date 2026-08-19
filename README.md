@@ -397,4 +397,4 @@ Please contact [Dr. Aina](https://www.linkedin.com/in/ainaadekunle) if you are i
 
 ---
 
-_This repository is also the source for the lab website. For build, editing and deployment instructions, see [CONTRIBUTING.md](CONTRIBUTING.md)._
+_This repository is also the source for the lab website. For build, editing and deployment instructions, see [CONTRIBUTING.md](CONTRIBUTING.md); for outstanding maintenance tasks, see [TODO.md](TODO.md)._
