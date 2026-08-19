@@ -174,9 +174,9 @@ Derrick is a student at the California Academy of Math and Science and a Researc
 
 — Research Assistant
 
-Contact via the [lab](/join/)
+✉️ akumar [at] csudh.edu
 
-Ayush Kumar is a student at the California Academy of Math and Science and a Research Assistant at
+Ayush is a student at the California Academy of Math and Science and a Research Assistant at
 AAI Research Lab.
 
 ### Prince Otegbulu
@@ -185,7 +185,7 @@ AAI Research Lab.
 
 Contact via the [lab](/join/)
 
-Prince Otegbulu is a student at the California Academy of Math and Science and a Research Assistant at
+Prince is a student at the California Academy of Math and Science and a Research Assistant at
 AAI Research Lab.
 
 ### Victory Unegbu
@@ -194,7 +194,7 @@ AAI Research Lab.
 
 Contact via the [lab](/join/)
 
-Victory Unegbu is a student at the California Academy of Math and Science and a Research Assistant at
+Victory is a student at the California Academy of Math and Science and a Research Assistant at
 AAI Research Lab.
 
 ### Alumni
@@ -339,7 +339,7 @@ We are grateful to the leadership of the College of Natural and Behavioral Scien
 
 **27 Aug 2024** — Dr. Aina was invited to present at the Department of Chemistry and Biochemistry, California State University Long Beach.
 
-**20 Aug 2024** — AAI Research Lab is established with a **\$70,000** CSUDH Startup Fund award to Dr. Aina, for the project _Establishing a Computational Biophysics Research Laboratory_.
+**20 Aug 2024** — AAI Research Lab is established with a **\$70,000** CSUDH Startup Fund award to Dr. Aina, for the project _Establishing a Computational Research Laboratory_.
 
 **19 Aug 2024** — AAI Research Lab opens at California State University Dominguez Hills.
 

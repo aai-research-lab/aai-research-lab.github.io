@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-AAI Research Lab is established with a **\$70,000** CSUDH Startup Fund award to Dr. Aina, for the project _Establishing a Computational Biophysics Research Laboratory_.
+AAI Research Lab is established with a **\$70,000** CSUDH Startup Fund award to Dr. Aina, for the project _Establishing a Computational Research Laboratory_.
