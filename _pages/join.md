@@ -25,7 +25,7 @@ social: false # includes social icons at the bottom of the page
 
 ### Join Us!
 
-We are a multidisciplinary team harnessing advanced mathematical and computational tools to address challenging questions in biophysics, protein design, and drug discovery, and building the open-source software that supports them.
+We are a multidisciplinary team harnessing advanced mathematical and computational tools to address challenging questions in biochemistry and biophysics, protein design and drug discovery, and building the open-source software that supports them.
 
 We seek curious, motivated students and researchers with a strong foundation in mathematics, physics, chemistry, biology or computer science.
 If you are interested in biological problems and deepening your research expertise in an interdisciplinary field, we want you on our team.

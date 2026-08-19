@@ -28,11 +28,9 @@ We are advancing research at the intersection of physics, chemistry, and biology
 
 ### Research
 
-**Biophysics --** We study the principles of physics that govern biomolecular interactions and use/develop computational and machine learning methods to understand the dynamics of proteins.
+**Biochemistry and Biophysics --** We study the chemical and physical principles that govern biomolecular structure and interactions, and use and develop computational and machine learning methods to understand the dynamics of proteins.
 
-**Protein Design --** We utilize AI and biophysical understanding to design and engineer novel proteins with entirely new structural and functional properties.
-
-**Drug Discovery --** We apply protein design techniques to immunogen and antibody design to tackle practical problems in drug discovery for neurodegenerative diseases.
+**Protein Design and Drug Discovery --** We utilize AI and biophysical understanding to design and engineer novel proteins with entirely new structural and functional properties, and apply those techniques to immunogen and antibody design for practical problems in drug discovery for neurodegenerative diseases.
 
 **Scientific Software Development --** We build and release open-source software that makes computational science faster, more reproducible, and easier to get right, so that methods developed here are usable by the wider research community.
 

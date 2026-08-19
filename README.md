@@ -17,11 +17,9 @@ We believe in the transformative power of computational science to revolutionize
 
 ## Research
 
-**Biophysics.** We study the principles of physics that govern biomolecular interactions and use and develop computational and machine learning methods to understand the dynamics of proteins.
+**Biochemistry and Biophysics.** We study the chemical and physical principles that govern biomolecular structure and interactions, and use and develop computational and machine learning methods to understand the dynamics of proteins.
 
-**Protein Design.** We utilize AI and biophysical understanding to design and engineer novel proteins with entirely new structural and functional properties.
-
-**Drug Discovery.** We apply protein design techniques to immunogen and antibody design to tackle practical problems in drug discovery for neurodegenerative diseases.
+**Protein Design and Drug Discovery.** We utilize AI and biophysical understanding to design and engineer novel proteins with entirely new structural and functional properties, and apply those techniques to immunogen and antibody design for practical problems in drug discovery for neurodegenerative diseases.
 
 **Scientific Software Development.** We build and release open-source software that makes computational science faster, more reproducible, and easier to get right, so that methods developed here are usable by the wider research community.
 
@@ -391,7 +389,7 @@ As we begin the new semester, please take a moment to stop by his office and say
 
 ## Join us
 
-We are a multidisciplinary team harnessing advanced mathematical and computational tools to address challenging questions in biophysics, protein design, and drug discovery, and building the open-source software that supports them.
+We are a multidisciplinary team harnessing advanced mathematical and computational tools to address challenging questions in biochemistry and biophysics, protein design and drug discovery, and building the open-source software that supports them.
 
 We seek curious, motivated students and researchers with a strong foundation in mathematics, physics, chemistry, biology or computer science. If you are interested in biological problems and deepening your research expertise in an interdisciplinary field, we want you on our team. Join us in a collaborative environment to advance research for applications in biomedicine and biotechnology. Our work goes beyond the lab, aiming to design innovative therapeutic proteins that can have profound impact on people's health.
 
