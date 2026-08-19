@@ -160,39 +160,49 @@ Courses taught by Dr. Aina at California State University, Dominguez Hills.
 
 ### Adekunle Aina, Ph.D. — Lead Scientist
 
-✉️ aaina [at] csudh.edu · 🌐 [LinkedIn](https://www.linkedin.com/in/ainaadekunle) · [ORCID](https://orcid.org/0000-0002-8215-7452) · [Google Scholar](https://scholar.google.com/citations?user=t7ARddEAAAAJ)
+✉️ aaina [at] csudh.edu  
+🌐 [LinkedIn](https://www.linkedin.com/in/ainaadekunle)
 
-Dr. Aina is an Assistant Professor of Physics and Biophysics at California State University, Dominguez Hills. He received his Ph.D. in Physics at the University of British Columbia. His research focuses on computational protein design of immunogens for neurodegenerative diseases. Previously, he was a College Professor at Okanagan College and worked as an Associate Scientist at the biotech company ProMIS Neurosciences. He is interested in computational science to tackle problems at the intersection of physics, chemistry, and biology for applications in biomedicine and biotechnology.
+Dr. Aina is an Assistant Professor of Physics and Biophysics at California State University Dominguez Hills.
+He received his Ph.D. in Physics at the University of British Columbia.
+His research focuses on computational protein design of immunogens for neurodegenerative diseases. Previously,
+he was a College Professor at Okanagan College and worked as an Associate Scientist at the biotech company ProMIS Neurosciences.
+He is interested in computational science to tackle problems at the intersection of physics, chemistry, and biology for applications in biomedicine and biotechnology.
 
 ### Derrick Kwan — Research Assistant
 
-✉️ dkwan4 [at] toromail.csudh.edu · 🌐 [LinkedIn](https://www.linkedin.com/in/derrick-kwan-5644b52b9)
+✉️ dkwan4 [at] toromail.csudh.edu  
+🌐 [LinkedIn](https://www.linkedin.com/in/derrick-kwan-5644b52b9)
 
-Derrick is a student at the California Academy of Math and Science and a Research Assistant at AAI Research Lab. He is interested in applying computational methods to address challenges in biotechnology.
+Derrick is a student at the California Academy of Math and Science and a Research Assistant at
+AAI Research Lab. He is interested in applying computational methods to address challenges in
+biotechnology.
 
-### Ayush Kumar
+### Evelyn Juarez — Research Assistant
 
-— Research Assistant
+✉️ ejuarez51 [at] toromail.csudh.edu
+
+Evelyn is a student in the Department of Physics at California State University, Dominguez Hills.
+She is a Research Assistant at AAI Research Lab. She is interested in machine learning and
+artificial intelligence.
+
+### Ayush Kumar — Research Assistant
 
 ✉️ akumar [at] csudh.edu
 
 Ayush is a student at the California Academy of Math and Science and a Research Assistant at
 AAI Research Lab.
 
-### Prince Otegbulu
+### Prince Otegbulu — Research Assistant
 
-— Research Assistant
-
-Contact via the [lab](/join/)
+✉️ potegbulu [at] toromail.csudh.edu
 
 Prince is a student at the California Academy of Math and Science and a Research Assistant at
 AAI Research Lab.
 
-### Victory Unegbu
+### Victory Unegbu — Research Assistant
 
-— Research Assistant
-
-Contact via the [lab](/join/)
+✉️ vunegbu [at] toromail.csudh.edu
 
 Victory is a student at the California Academy of Math and Science and a Research Assistant at
 AAI Research Lab.

@@ -22,6 +22,12 @@ profiles:
     more_info: >
   - align: left
     image: aaiResLab_Logo.png
+    content: about_evelyn.md
+    image_circular: true
+    more_info: >
+      <p></p>
+  - align: left
+    image: aaiResLab_Logo.png
     content: about_ayush.md
     image_circular: true
     more_info: >
