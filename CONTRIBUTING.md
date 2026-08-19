@@ -1,8 +1,8 @@
 # Maintaining the site
 
-Source for [aai-research-lab.github.io](https://aai-research-lab.github.io). Built with [Jekyll](https://jekyllrb.com/) on the [al-folio](https://github.com/alshedivat/al-folio) theme; see [`al-folio_README.md`](al-folio_README.md) for upstream theme documentation.
+Source for [aai-research-lab.github.io](https://aai-research-lab.github.io). Built with [Jekyll](https://jekyllrb.com/) on the [al-folio](https://github.com/alshedivat/al-folio) theme; see [`al-folio_README.md`](https://github.com/aai-research-lab/aai-research-lab.github.io/blob/main/al-folio_README.md) for upstream theme documentation.
 
-Outstanding maintenance tasks are tracked in [TODO.md](TODO.md).
+Outstanding maintenance tasks are tracked in [TODO.md](https://github.com/aai-research-lab/aai-research-lab.github.io/blob/main/TODO.md).
 
 ## Where things live
 

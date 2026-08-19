@@ -232,6 +232,8 @@ exclude:
   - package-lock.json
   - purgecss.config.js
   - README.md
+  - CONTRIBUTING.md
+  - TODO.md
   - readme_preview/
   - vendor
   - _pages/about_*.md
