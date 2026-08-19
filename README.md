@@ -23,6 +23,8 @@ We believe in the transformative power of computational science to revolutionize
 
 **Drug Discovery.** We apply protein design techniques to immunogen and antibody design to tackle practical problems in drug discovery for neurodegenerative diseases.
 
+**Scientific Software Development.** We build and release open-source software that makes computational science faster, more reproducible, and easier to get right, so that methods developed here are usable by the wider research community.
+
 ## Software
 
 We build the tools our own research needs, and release them for everyone else's. All three are open source under the MIT licence.
@@ -389,7 +391,7 @@ As we begin the new semester, please take a moment to stop by his office and say
 
 ## Join us
 
-We are a multidisciplinary team harnessing advanced mathematical and computational tools to address challenging questions in biophysics, protein design, and drug discovery.
+We are a multidisciplinary team harnessing advanced mathematical and computational tools to address challenging questions in biophysics, protein design, and drug discovery, and building the open-source software that supports them.
 
 We seek curious, motivated students and researchers with a strong foundation in mathematics, physics, chemistry, biology or computer science. If you are interested in biological problems and deepening your research expertise in an interdisciplinary field, we want you on our team. Join us in a collaborative environment to advance research for applications in biomedicine and biotechnology. Our work goes beyond the lab, aiming to design innovative therapeutic proteins that can have profound impact on people's health.
 

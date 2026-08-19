@@ -34,6 +34,8 @@ We are advancing research at the intersection of physics, chemistry, and biology
 
 **Drug Discovery --** We apply protein design techniques to immunogen and antibody design to tackle practical problems in drug discovery for neurodegenerative diseases.
 
+**Scientific Software Development --** We build and release open-source software that makes computational science faster, more reproducible, and easier to get right, so that methods developed here are usable by the wider research community.
+
 We believe in the transformative power of computational science to revolutionize the way we study biological systems such as proteins. Our research doesn’t just stay in the lab—it has the potential to create real-world solutions like the development of new therapeutic proteins that can have positive impact on people's lives.
 
 For more information, check out our [publications](/publications/) and stay updated on latest [news](/news/).
