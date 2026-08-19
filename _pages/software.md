@@ -7,92 +7,60 @@ nav: true
 nav_order: 1
 ---
 
+We build the tools our own research needs, and release them for everyone else's. All three are open source under the MIT licence.
+
+---
+
 ## FastMDXplora
 
-**F**ully **A**utomated **Sy**s**T**em for **M**olecular **D**ynamics e**Xplora**tion
-
-FastMDXplora explores a protein's behaviour end to end from a single command. Given a structure — or just a PDB ID — it carries out molecular dynamics exploration through setup, simulation, analysis, and reporting, and hands back publication-ready results.
-
-```
-setup  →  simulation  →  analysis  →  report
-```
-
-| Phase          | What it does                                                                                                                       |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **setup**      | Cleans up the structure and builds a simulation-ready system: fixes missing atoms, adds hydrogens, solvates, and adds ions.        |
-| **simulation** | Runs the molecular dynamics — energy minimization, equilibration, and production — with optional enhanced sampling.                |
-| **analysis**   | Computes standard structural and dynamic metrics, and protein–ligand metrics where a ligand is present, with figures ready to use. |
-| **report**     | Packages everything into a slide deck, a written report, and a self-contained bundle you can share.                                |
-
-**Highlights**
-
-- Explore a protein's full dynamics with one command, covering setup, simulation, analysis, and reporting
-- Build a protein–ligand system from a PDB identifier alone: the ligand is identified, its chemistry retrieved, and its protonation settled in the binding site — with a refusal rather than a guess where the structure is ambiguous
-- Probe protein–ligand binding automatically, with analyses for pose stability, contacts, and hydrogen bonds
-- Reach beyond plain MD with built-in PLUMED enhanced sampling: metadynamics, umbrella sampling, steered MD
-- Design, start, watch, and review an exploration from a browser, with a 3D viewer and live telemetry
-- Scale from a quick single-protein exploration to large parallel campaigns, driven the same way from the CLI or the Python API
-
-**Install**
+##### Molecular dynamics from a PDB code to a finished study — in one command.
 
 ```bash
-pip install fastmdxplora
+fastmdx explore --system 181L
 ```
 
-Analysis and reporting are pure pip. Setup and simulation additionally require OpenMM and PDBFixer from conda-forge — see the [installation guide](https://fastmdxplora.readthedocs.io/en/latest/installation.html).
+Four characters of input. FastMDXplora fetches T4 lysozyme, parameterises the benzene bound in its cavity, runs the dynamics, analyses the trajectory, works out which residues hold the ligand in place, and writes the whole study up as a PDF.
 
-[GitHub](https://github.com/aai-research-lab/FastMDXplora) · [Documentation](https://fastmdxplora.readthedocs.io) · [PyPI](https://pypi.org/project/fastmdxplora/) · MIT licence
+It handles a protein on its own, a protein with a ligand, a membrane protein in one of seven bilayers, free energy along a collective variable without writing PLUMED input, a trajectory from GROMACS or Amber or NAMD, or many systems at once with a comparison report across all of them.
 
-**Citation.** The foundational methodology is described in:
+**It refuses rather than guesses.** An ambiguous ligand charge, a protein backwards in its membrane, a free-energy surface that never converged — each stops the run and is named rather than papered over. What comes out, you can defend; what you cannot is marked.
 
-Aina, A. and Kwan, D. _FastMDAnalysis: Software for Automated Analysis of Molecular Dynamics Trajectories._ Journal of Computational Chemistry **47**(8), e70350 (2026). [doi:10.1002/jcc.70350](https://doi.org/10.1002/jcc.70350)
+The whole study lives in one config file, reproducible by anyone holding it, and reachable equally from a GUI, the command line, or Python.
 
-A further publication describing FastMDXplora is in preparation.
+[GitHub](https://github.com/aai-research-lab/FastMDXplora) · [Documentation](https://fastmdxplora.readthedocs.io) · [Quick start](https://fastmdxplora.readthedocs.io/en/latest/getting_started.html) · [conda-forge](https://anaconda.org/conda-forge/fastmdxplora)
 
 ---
 
 ## Prothon
 
-A Python package for efficient comparison of protein conformational ensembles using local order parameters.
+##### How different are two protein ensembles — and is the difference real?
 
-Prothon represents an ensemble as a vector of probability distributions over local structural measures, and quantifies dissimilarity between ensembles with a Jensen–Shannon distance metric and statistical significance testing. On ubiquitin ensembles it ran up to 88 times faster than ENCORE while using 48 times fewer computing cores.
+```bash
+prothon -traj wild_type.dcd,mutant.dcd -top topology.pdb -m cbcn
+```
 
-**Ensemble representations**
+Prothon describes each ensemble by local order parameters — contact numbers, virtual bond and torsion angles, solvent accessibility — and measures the distance between them. Because the description is local, nothing is superposed. Two things follow.
 
-- C-beta contact number (`cbcn`) and C-alpha contact number (`cacn`)
-- Virtual C-alpha–C-alpha bond angles (`caba`) and torsion angles (`cata`)
-- Solvent accessible surface area (`sasa`)
+**It scales linearly, not quadratically.** Methods built on pairwise RMSD must superpose every structure against every other. Prothon never superposes anything, so ensembles of tens of thousands of conformations are ordinary rather than prohibitive.
 
-**Also provides**
+**It compares molecules that are not the same molecule.** A superposition needs a shared coordinate frame, and a wild type and its mutant do not have one. Local order parameters need only a residue mapping.
 
-- Local (per-residue) and global dissimilarity analysis with significance testing
-- Dimensionality reduction — PCA, MDS, and t-SNE — with 2D scatter plots
-- Ensemble matrices as CSV, heatmaps, and bar/line dissimilarity plots
-- A command-line tool and a Python API, with methods to replot and customise every figure
+**It reports what it cannot resolve.** Two halves of a _single_ ensemble differ slightly, because a finite sample never reproduces a continuous distribution exactly. Prothon measures that floor, prints it beside every result, and calls anything below it unresolvable rather than small. Significance is decided against a permutation null and corrected for multiple testing.
 
-[GitHub](https://github.com/aai-research-lab/Prothon) · [Paper](https://doi.org/10.1021/acs.jcim.3c00145)
-
-**Citation.** Aina, A., Hsueh, S. C. C. and Plotkin, S. S. _PROTHON: A Local Order Parameter-Based Method for Efficient Comparison of Protein Ensembles._ Journal of Chemical Information and Modeling **63**(11), 3453–3461 (2023). [doi:10.1021/acs.jcim.3c00145](https://doi.org/10.1021/acs.jcim.3c00145)
+[GitHub](https://github.com/aai-research-lab/Prothon) · [Documentation](https://prothon.readthedocs.io) · [Paper](https://doi.org/10.1021/acs.jcim.3c00145) · [PyPI](https://pypi.org/project/prothon-ensembles/)
 
 ---
 
 ## CalphaEBM
 
-A physics-based, machine-learned protein C-alpha energy function that achieves native basin stability across diverse protein folds.
+##### A learned energy function for coarse-grained protein dynamics.
 
-CalphaEBM decomposes the effective free energy into four interpretable terms, totalling just 13,032 trainable parameters:
+CalphaEBM is a physics-based, machine-learned C-alpha energy function that holds the native basin across diverse folds. It splits the effective free energy into four interpretable terms — backbone geometry, Ramachandran basins and hydrogen bonding, tertiary packing, and excluded volume — totalling just 13,032 trainable parameters, all of them producing smooth differentiable forces for Langevin dynamics.
 
-| Term                | Parameters | What it captures                                                                                                                                   |
-| ------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **LocalEnergy**     | 12,226     | Backbone geometry: an 8-residue sliding-window MLP over (θ, φ) angles with learned amino acid embeddings                                           |
-| **SecondaryEnergy** | 583        | Ramachandran basin potentials — helix, sheet, PPII, turn — with sequence-dependent mixture weights, plus helical and sheet hydrogen bond distances |
-| **PackingEnergy**   | 222        | Tertiary packing: 5-group coordination statistics with product Gaussian scoring                                                                    |
-| **RepulsionEnergy** | 1          | Excluded volume: a PDB-derived repulsive wall with differentiable interpolation                                                                    |
-
-Every term produces smooth, differentiable forces suitable for Langevin dynamics (MALA) sampling.
-
-Trained on 2,280 high-quality monomeric protein chains (L = 40–512), the model holds native contacts (Q > 0.96) and native compactness (radius of gyration within 2% of the crystal structure) across all 16 validation proteins, which span a range of lengths and fold classes. On villin headpiece HP35 it maintained Q = 1.000 over one million MALA steps.
+Trained on 2,280 monomeric chains, it keeps native contacts (Q > 0.96) and native compactness (radius of gyration within 2% of the crystal structure) across all 16 validation proteins. On villin headpiece HP35 it held Q = 1.000 over one million sampling steps.
 
 [GitHub](https://github.com/aai-research-lab/CalphaEBM)
 
-Developed with support from the EFA Faculty Legacy Fund award _Deep Learning the Energy Landscape of a Coarse-Grained Model of Proteins_.
+---
+
+Work here is supported by the CSUDH Startup Fund, the EFA Faculty Legacy Fund, and NIH award S10GM164901.

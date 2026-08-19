@@ -20,6 +20,24 @@ profiles:
     content: about_derrick.md
     image_circular: true # crops the image to make it circular
     more_info: >
+  - align: left
+    image: aaiResLab_Logo.png
+    content: about_ayush.md
+    image_circular: true
+    more_info: >
+      <p></p>
+  - align: left
+    image: aaiResLab_Logo.png
+    content: about_prince.md
+    image_circular: true
+    more_info: >
+      <p></p>
+  - align: left
+    image: aaiResLab_Logo.png
+    content: about_victory.md
+    image_circular: true
+    more_info: >
+      <p></p>
   - section: Alumni
     align: left
     image: aaiResLabPhoto.png
