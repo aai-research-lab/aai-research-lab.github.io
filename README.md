@@ -186,6 +186,15 @@ Evelyn is a student in the Department of Physics at California State University,
 She is a Research Assistant at AAI Research Lab. She is interested in machine learning and
 artificial intelligence.
 
+### Hana Nabirahni — Research Assistant
+
+✉️ hnabirahni1 [at] toromail.csudh.edu  
+🌐 [LinkedIn](https://www.linkedin.com/in/hananabirahni)
+
+Hana is a student in the Biophysics Program at California State University, Dominguez Hills. She is
+a Research Assistant at AAI Research Lab. She is interested in computational protein structure
+analysis and design.
+
 ### Ayush Kumar — Research Assistant
 
 ✉️ akumar [at] csudh.edu  
@@ -199,8 +208,10 @@ AAI Research Lab.
 ✉️ potegbulu [at] toromail.csudh.edu  
 🌐 [LinkedIn](https://www.linkedin.com/in/prince-otegbulu-30b2773b9)
 
-Prince is a student at the California Academy of Math and Science and a Research Assistant at
-AAI Research Lab.
+Prince is a student at the California Academy of Mathematics and Science and a Research Assistant
+at AAI Research Lab, where he focuses on computational biology. He is passionate about applying
+computational methods to disease prediction and advancing data-driven approaches to complex
+biomedical challenges.
 
 ### Victory Unegbu — Research Assistant
 

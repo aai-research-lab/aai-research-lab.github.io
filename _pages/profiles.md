@@ -27,13 +27,19 @@ profiles:
     more_info: >
       <p></p>
   - align: left
+    image: hana_nabirahni.jpg
+    content: about_hana.md
+    image_circular: true
+    more_info: >
+      <p></p>
+  - align: left
     image: aaiResLabPhoto.png
     content: about_ayush.md
     image_circular: true
     more_info: >
       <p></p>
   - align: left
-    image: aaiResLabPhoto.png
+    image: prince_otegbulu.jpg
     content: about_prince.md
     image_circular: true
     more_info: >
