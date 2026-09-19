@@ -27,7 +27,7 @@ It handles a protein on its own, a protein with a ligand, a membrane protein in 
 
 The whole study lives in one config file, reproducible by anyone holding it, and reachable equally from a GUI, the command line, or Python.
 
-[GitHub](https://github.com/aai-research-lab/FastMDXplora) · [Documentation](https://fastmdxplora.readthedocs.io) · [Quick start](https://fastmdxplora.readthedocs.io/en/latest/getting_started.html) · [conda-forge](https://anaconda.org/conda-forge/fastmdxplora)
+[GitHub](https://github.com/aai-research-lab/FastMDXplora) · [Documentation](https://fastmdxplora.readthedocs.io) · [Your first study](https://fastmdxplora.readthedocs.io/en/latest/first_study.html) · [conda-forge](https://anaconda.org/conda-forge/fastmdxplora)
 
 ---
 
