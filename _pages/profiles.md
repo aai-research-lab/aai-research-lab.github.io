@@ -27,6 +27,12 @@ profiles:
     more_info: >
       <p></p>
   - align: left
+    image: aaiResLabPhoto.png
+    content: about_genesis.md
+    image_circular: true
+    more_info: >
+      <p></p>
+  - align: left
     image: hana_nabirahni.jpg
     content: about_hana.md
     image_circular: true

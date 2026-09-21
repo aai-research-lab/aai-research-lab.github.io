@@ -186,6 +186,13 @@ Evelyn is a student in the Department of Physics at California State University,
 She is a Research Assistant at AAI Research Lab. She is interested in machine learning and
 artificial intelligence.
 
+### Genesis Rocha — Research Assistant
+
+✉️ grocha11 [at] toromail.csudh.edu
+
+Genesis is a student in the Department of Physics at California State University, Dominguez Hills,
+and a Research Assistant at AAI Research Lab, interested in computational modelling of proteins.
+
 ### Hana Nabirahni — Research Assistant
 
 ✉️ hnabirahni1 [at] toromail.csudh.edu  
@@ -308,7 +315,7 @@ Our thanks to the NIH and NIGMS for this support, and to the faculty who built t
 
 </details>
 
-**1 Aug 2026** — Four new research students join AAI Research Lab: Evelyn Juarez from the Department of Physics, Hana Nabirahni from the Biophysics Program, and Catherine Giles and Georgina A. Escobar from the Department of Biology. Welcome to you all!
+**1 Aug 2026** — Five new research students join AAI Research Lab: Evelyn Juarez and Genesis Rocha from the Department of Physics, Hana Nabirahni from the Biophysics Program, and Catherine Giles and Georgina A. Escobar from the Department of Biology. Welcome to you all!
 
 **1 Jul 2026** — The lab is part of a **\$30,000** CSU LIFT Grant for _Future-Forward Biophysics: A Program-Level Durable Skills Pathway through VR-, AI-, Research-, and Experiential Learning_. PI: Horace Crogman; Dr. Aina is a Co-PI.
 
