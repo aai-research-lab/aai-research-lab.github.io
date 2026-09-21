@@ -195,6 +195,24 @@ Hana is a student in the Biophysics Program at California State University, Domi
 a Research Assistant at AAI Research Lab. She is interested in computational protein structure
 analysis and design.
 
+### Catherine Giles — Research Assistant
+
+✉️ cgiles3 [at] toromail.csudh.edu  
+🌐 [LinkedIn](https://www.linkedin.com/in/catherinegiles)
+
+Catherine is a student in the Department of Biology at California State University, Dominguez Hills,
+and a Research Assistant at AAI Research Lab, interested in computational immunogen design for
+neurodegenerative diseases.
+
+### Georgina A. Escobar — Research Assistant
+
+✉️ galvarengaescobar1 [at] toromail.csudh.edu  
+🌐 [LinkedIn](https://www.linkedin.com/in/georgina-alvarenga)
+
+Georgina is a student in the Department of Biology at California State University, Dominguez Hills,
+and a Research Assistant at AAI Research Lab, interested in computational immunogen design for
+neurodegenerative diseases.
+
 ### Ayush Kumar — Research Assistant
 
 ✉️ akumar [at] csudh.edu  
