@@ -308,7 +308,11 @@ Our thanks to the NIH and NIGMS for this support, and to the faculty who built t
 
 </details>
 
+**1 Aug 2026** — Four new research students join AAI Research Lab: Evelyn Juarez from the Department of Physics, Hana Nabirahni from the Biophysics Program, and Catherine Giles and Georgina A. Escobar from the Department of Biology. Welcome to you all!
+
 **1 Jul 2026** — The lab is part of a **\$30,000** CSU LIFT Grant for _Future-Forward Biophysics: A Program-Level Durable Skills Pathway through VR-, AI-, Research-, and Experiential Learning_. PI: Horace Crogman; Dr. Aina is a Co-PI.
+
+**1 May 2026** — Three new research students from the California Academy of Mathematics and Science: Ayush Kumar, Prince Otegbulu, and Victory Unegbu join AAI Research Lab. Welcome to you all!
 
 **29 Mar 2026** — Our manuscript on **FastMDAnalysis** is published in the _Journal of Computational Chemistry_. One command gives a full molecular dynamics analysis plus presentation slides, with over 90% less code than standard workflows. [Paper](https://doi.org/10.1002/jcc.70350) (open access) · [Software](https://github.com/aai-research-lab/FastMDAnalysis)
 
