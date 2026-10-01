@@ -224,15 +224,6 @@ Catherine is a student in the Department of Biology at California State Universi
 and a Research Assistant at AAI Research Lab, interested in computational immunogen design for
 neurodegenerative diseases.
 
-### Georgina A. Escobar — Research Assistant
-
-✉️ galvarengaescobar1 [at] toromail.csudh.edu  
-🌐 [LinkedIn](https://www.linkedin.com/in/georgina-alvarenga)
-
-Georgina is a student in the Department of Biology at California State University, Dominguez Hills,
-and a Research Assistant at AAI Research Lab, interested in computational immunogen design for
-neurodegenerative diseases.
-
 ### Ayush Kumar — Research Assistant
 
 ✉️ akumar [at] csudh.edu  
@@ -328,7 +319,7 @@ Our thanks to the NIH and NIGMS for this support, and to the faculty who built t
 
 </details>
 
-**1 Aug 2026** — Five new research students join AAI Research Lab: Evelyn Juarez and Genesis Rocha from the Department of Physics, Hana Nabirahni from the Biophysics Program, and Catherine Giles and Georgina A. Escobar from the Department of Biology. Welcome to you all!
+**1 Aug 2026** — Four new research students join AAI Research Lab: Evelyn Juarez and Genesis Rocha from the Department of Physics, Hana Nabirahni from the Biophysics Program, and Catherine Giles from the Department of Biology. Welcome to you all!
 
 **1 Jul 2026** — The lab is part of a **\$30,000** CSU LIFT Grant for _Future-Forward Biophysics: A Program-Level Durable Skills Pathway through VR-, AI-, Research-, and Experiential Learning_. PI: Horace Crogman; Dr. Aina is a Co-PI.
 

@@ -46,12 +46,6 @@ profiles:
       <p></p>
   - align: left
     image: aaiResLabPhoto.png
-    content: about_georgina.md
-    image_circular: true
-    more_info: >
-      <p></p>
-  - align: left
-    image: aaiResLabPhoto.png
     content: about_ayush.md
     image_circular: true
     more_info: >
