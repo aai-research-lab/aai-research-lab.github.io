@@ -52,9 +52,13 @@ table.table a {
 article p a:not(.btn),
 article li a:not(.btn),
 table.table td a:not(.btn) {
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
+  text-decoration: underline dotted;
+  text-decoration-thickness: 2px;
   text-underline-offset: 3px;
+
+  &:hover {
+    text-decoration-style: solid;
+  }
 }
 
 .table-dark {
