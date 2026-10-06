@@ -329,7 +329,7 @@ Our thanks to the NIH and NIGMS for this support, and to the faculty who built t
 
 **1 Mar 2026** — Dr. Aina gave an oral presentation titled _"Automated Analysis of Molecular Dynamics Trajectories"_ at the CSUDH Research Symposium.
 
-**21 Feb 2026** — Dr. Aina presented a poster on _Efficient Comparison of Protein Conformational Ensembles_ at the 70th Annual Meeting of the Biophysical Society in San Francisco.
+**21 Feb 2026** — Dr. Aina presented a poster on _Efficient Comparison of Protein Conformational Ensembles_ at the 70th Annual Meeting of the Biophysical Society, held 21–25 February 2026 at the Moscone Center in San Francisco.
 
 **1 Nov 2025** — Dr. Aina gave an oral presentation titled _"Automated Analysis of Molecular Dynamics Trajectories with FastMDAnalysis"_ at the 5th Annual 3×2 Research Presentations, CSU Dominguez Hills.
 
