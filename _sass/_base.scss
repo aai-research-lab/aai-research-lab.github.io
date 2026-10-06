@@ -49,6 +49,14 @@ table.table a {
   }
 }
 
+article p a:not(.btn),
+article li a:not(.btn),
+table.table td a:not(.btn) {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
 .table-dark {
   background-color: transparent;
   &.table-bordered {
